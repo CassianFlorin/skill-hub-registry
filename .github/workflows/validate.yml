@@ -1,0 +1,32 @@
+name: Validate Registry
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+      - name: Install skillhub from source
+        run: |
+          git clone https://github.com/CassianFlorin/skill-hub.git /tmp/skill-hub
+          cd /tmp/skill-hub
+          go build -o /usr/local/bin/skillhub ./cmd/skillhub
+      - name: Validate registry index
+        run: |
+          tmp="$(mktemp -d)"
+          export SKILLHUB_HOME="$tmp/home"
+          mkdir -p "$tmp/project"
+          cd "$tmp/project"
+          skillhub init
+          skillhub registry add local hub "$GITHUB_WORKSPACE"
+          skillhub registry sync hub
+          skillhub catalog featured --registry hub
+          skillhub install hub/official/skill-authoring-guide

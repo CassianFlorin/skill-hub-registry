@@ -1,0 +1,12 @@
+name: git-commit-cn
+namespace: official
+version: 0.1.0
+description: Generate concise Chinese Git commit messages from staged or unstaged diffs.
+entry: SKILL.md
+targets:
+  - codex
+tags:
+  - git
+  - commit
+  - chinese
+author: skill-hub

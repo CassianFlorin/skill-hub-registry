@@ -1,0 +1,98 @@
+{
+  "schema_version": "2",
+  "registry": "hub",
+  "generated_at": "2026-05-27T00:00:00Z",
+  "skills": [
+    {
+      "identity": "official/skill-authoring-guide",
+      "name": "skill-authoring-guide",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Guide agents to create focused, installable skill packages.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "skill",
+        "authoring",
+        "package"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/skill-authoring-guide"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/obsidian-workflow",
+      "name": "obsidian-workflow",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Capture project plans and acceptance records into Obsidian with verification.",
+      "targets": [
+        "codex"
+      ],
+      "tags": [
+        "obsidian",
+        "documentation",
+        "planning"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/obsidian-workflow"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/git-commit-cn",
+      "name": "git-commit-cn",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Generate concise Chinese Git commit messages from staged or unstaged diffs.",
+      "targets": [
+        "codex"
+      ],
+      "tags": [
+        "git",
+        "commit",
+        "chinese"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/git-commit-cn"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    }
+  ]
+}

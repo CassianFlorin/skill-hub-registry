@@ -1,0 +1,13 @@
+name: skill-authoring-guide
+namespace: official
+version: 0.1.0
+description: Guide agents to create focused, installable skill packages.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - skill
+  - authoring
+  - package
+author: skill-hub

@@ -1,0 +1,12 @@
+name: obsidian-workflow
+namespace: official
+version: 0.1.0
+description: Capture project plans and acceptance records into Obsidian with verification.
+entry: SKILL.md
+targets:
+  - codex
+tags:
+  - obsidian
+  - documentation
+  - planning
+author: skill-hub
