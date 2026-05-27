@@ -317,7 +317,8 @@
       "description": "Build static catalog pages from skill-hub registry indexes.",
       "targets": [
         "codex",
-        "claude"
+        "claude",
+        "gemini"
       ],
       "tags": [
         "marketplace",
@@ -348,7 +349,8 @@
       "description": "Add and verify new skill-hub runtime deployment adapters.",
       "targets": [
         "codex",
-        "claude"
+        "claude",
+        "gemini"
       ],
       "tags": [
         "runtime",
@@ -379,7 +381,8 @@
       "description": "Review skill metadata for registry quality and discoverability.",
       "targets": [
         "codex",
-        "claude"
+        "claude",
+        "gemini"
       ],
       "tags": [
         "metadata",

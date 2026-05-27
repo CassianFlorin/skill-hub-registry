@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Any
 
 
-ALLOWED_TARGETS = {"codex", "claude"}
+ALLOWED_TARGETS = {"codex", "claude", "gemini"}
 ALLOWED_TRUST_LEVELS = {"official", "curated", "community", "private", "unknown"}
 
 

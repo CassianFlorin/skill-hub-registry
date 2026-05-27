@@ -99,6 +99,17 @@ class ValidateRegistryTest(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertIn("registry validation passed: 1 skills", result.stdout)
 
+    def test_valid_registry_accepts_gemini_target(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source_path = write_skill(root, "official", "gemini-demo", targets=["gemini"])
+            write_index(root, [valid_entry("official", "gemini-demo", source_path, targets=["gemini"])])
+
+            result = run_validator(root)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn("registry validation passed: 1 skills", result.stdout)
+
     def test_validator_reports_multiple_registry_errors(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
