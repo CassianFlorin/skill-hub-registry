@@ -13,6 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run registry validator tests
+        run: python3 -m unittest tests/test_validate_registry.py
+      - name: Validate registry metadata
+        run: python3 scripts/validate_registry.py
       - uses: actions/setup-go@v5
         with:
           go-version: "1.22"
@@ -21,7 +28,7 @@ jobs:
           git clone https://github.com/CassianFlorin/skill-hub.git /tmp/skill-hub
           cd /tmp/skill-hub
           go build -o /usr/local/bin/skillhub ./cmd/skillhub
-      - name: Validate registry index
+      - name: Smoke test registry with skillhub
         run: |
           tmp="$(mktemp -d)"
           export SKILLHUB_HOME="$tmp/home"
@@ -30,5 +37,19 @@ jobs:
           skillhub init
           skillhub registry add local hub "$GITHUB_WORKSPACE"
           skillhub registry sync hub
+          skillhub registry index validate hub
+          skillhub catalog list --registry hub
           skillhub catalog featured --registry hub
-          skillhub install hub/official/skill-authoring-guide
+          python3 - <<'PY' > "$tmp/skills.txt"
+          import json
+          import os
+          from pathlib import Path
+
+          index = json.loads(Path(os.environ["GITHUB_WORKSPACE"], "skillhub.index.json").read_text())
+          for skill in index["skills"]:
+              if skill.get("source", {}).get("type") == "registry":
+                  print(skill["identity"])
+          PY
+          while IFS= read -r identity; do
+            skillhub install "hub/$identity"
+          done < "$tmp/skills.txt"
