@@ -1,0 +1,13 @@
+name: public-repo-hygiene
+namespace: official
+version: 0.1.0
+description: Keep public repositories free of private notes, local paths, secrets, and design-only artifacts.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - git
+  - security
+  - public
+author: skill-hub

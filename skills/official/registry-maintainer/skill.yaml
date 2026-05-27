@@ -1,0 +1,12 @@
+name: registry-maintainer
+namespace: official
+version: 0.1.0
+description: Maintain skill-hub registry indexes, skill package metadata, and catalog quality gates.
+entry: SKILL.md
+targets:
+  - codex
+tags:
+  - registry
+  - catalog
+  - skill
+author: skill-hub

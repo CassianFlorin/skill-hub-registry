@@ -1,0 +1,13 @@
+name: systematic-debugging
+namespace: official
+version: 0.1.0
+description: Debug failures from symptoms to evidence before changing code.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - debugging
+  - incident
+  - diagnosis
+author: skill-hub

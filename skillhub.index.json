@@ -93,6 +93,221 @@
       },
       "featured": true,
       "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/repo-code-review",
+      "name": "repo-code-review",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Review repository changes for bugs, regressions, and missing verification.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "review",
+        "code",
+        "quality"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/repo-code-review"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/systematic-debugging",
+      "name": "systematic-debugging",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Debug failures from symptoms to evidence before changing code.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "debugging",
+        "incident",
+        "diagnosis"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/systematic-debugging"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/release-readiness",
+      "name": "release-readiness",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Prepare a software release with clean state, fresh verification, and artifact checks.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "release",
+        "ci",
+        "verification"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/release-readiness"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/public-repo-hygiene",
+      "name": "public-repo-hygiene",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Keep public repositories free of private notes, local paths, secrets, and design-only artifacts.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "git",
+        "security",
+        "public"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/public-repo-hygiene"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/registry-maintainer",
+      "name": "registry-maintainer",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Maintain skill-hub registry indexes, skill package metadata, and catalog quality gates.",
+      "targets": [
+        "codex"
+      ],
+      "tags": [
+        "registry",
+        "catalog",
+        "skill"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/registry-maintainer"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/go-cli-development",
+      "name": "go-cli-development",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Implement and verify small Go command-line tool changes.",
+      "targets": [
+        "codex"
+      ],
+      "tags": [
+        "go",
+        "cli",
+        "testing"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/go-cli-development"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/pr-handoff",
+      "name": "pr-handoff",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Prepare concise pull request or merge handoff notes from verified repository changes.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "git",
+        "pr",
+        "handoff"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/pr-handoff"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
     }
   ]
 }

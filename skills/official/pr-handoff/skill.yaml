@@ -1,0 +1,13 @@
+name: pr-handoff
+namespace: official
+version: 0.1.0
+description: Prepare concise pull request or merge handoff notes from verified repository changes.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - git
+  - pr
+  - handoff
+author: skill-hub

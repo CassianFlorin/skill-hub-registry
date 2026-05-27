@@ -1,0 +1,12 @@
+name: go-cli-development
+namespace: official
+version: 0.1.0
+description: Implement and verify small Go command-line tool changes.
+entry: SKILL.md
+targets:
+  - codex
+tags:
+  - go
+  - cli
+  - testing
+author: skill-hub

@@ -1,0 +1,13 @@
+name: release-readiness
+namespace: official
+version: 0.1.0
+description: Prepare a software release with clean state, fresh verification, and artifact checks.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - release
+  - ci
+  - verification
+author: skill-hub

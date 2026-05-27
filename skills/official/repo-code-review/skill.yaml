@@ -1,0 +1,13 @@
+name: repo-code-review
+namespace: official
+version: 0.1.0
+description: Review repository changes for bugs, regressions, and missing verification.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - review
+  - code
+  - quality
+author: skill-hub

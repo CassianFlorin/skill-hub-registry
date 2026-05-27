@@ -23,6 +23,13 @@ skills/
     skill-authoring-guide/
     obsidian-workflow/
     git-commit-cn/
+    repo-code-review/
+    systematic-debugging/
+    release-readiness/
+    public-repo-hygiene/
+    registry-maintainer/
+    go-cli-development/
+    pr-handoff/
 ```
 
 ## Validation
