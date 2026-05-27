@@ -30,6 +30,9 @@ skills/
     registry-maintainer/
     go-cli-development/
     pr-handoff/
+    marketplace-catalog/
+    runtime-adapter/
+    skill-metadata-quality/
 ```
 
 ## Validation

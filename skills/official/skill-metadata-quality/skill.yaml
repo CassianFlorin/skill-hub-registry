@@ -1,0 +1,13 @@
+name: skill-metadata-quality
+namespace: official
+version: 0.1.0
+description: Review skill metadata for registry quality and discoverability.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - metadata
+  - registry
+  - quality
+author: skill-hub

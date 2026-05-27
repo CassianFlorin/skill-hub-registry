@@ -1,0 +1,13 @@
+name: marketplace-catalog
+namespace: official
+version: 0.1.0
+description: Build static catalog pages from skill-hub registry indexes.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - marketplace
+  - catalog
+  - discovery
+author: skill-hub

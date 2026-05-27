@@ -144,7 +144,7 @@ class ValidateRegistryTest(unittest.TestCase):
         result = run_validator(REPO_ROOT)
 
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("registry validation passed: 10 skills", result.stdout)
+        self.assertIn("registry validation passed: 13 skills", result.stdout)
 
 
 if __name__ == "__main__":

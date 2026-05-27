@@ -308,6 +308,99 @@
       },
       "featured": true,
       "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/marketplace-catalog",
+      "name": "marketplace-catalog",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Build static catalog pages from skill-hub registry indexes.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "marketplace",
+        "catalog",
+        "discovery"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/marketplace-catalog"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/runtime-adapter",
+      "name": "runtime-adapter",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Add and verify new skill-hub runtime deployment adapters.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "runtime",
+        "deploy",
+        "adapter"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/runtime-adapter"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "official/skill-metadata-quality",
+      "name": "skill-metadata-quality",
+      "namespace": "official",
+      "version": "0.1.0",
+      "description": "Review skill metadata for registry quality and discoverability.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "metadata",
+        "registry",
+        "quality"
+      ],
+      "source": {
+        "type": "registry",
+        "path": "skills/official/skill-metadata-quality"
+      },
+      "maintainers": [
+        "CassianFlorin"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "official",
+        "reviewed_at": "2026-05-27",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": true,
+      "updated_at": "2026-05-27"
     }
   ]
 }

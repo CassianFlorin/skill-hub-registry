@@ -1,0 +1,13 @@
+name: runtime-adapter
+namespace: official
+version: 0.1.0
+description: Add and verify new skill-hub runtime deployment adapters.
+entry: SKILL.md
+targets:
+  - codex
+  - claude
+tags:
+  - runtime
+  - deploy
+  - adapter
+author: skill-hub
