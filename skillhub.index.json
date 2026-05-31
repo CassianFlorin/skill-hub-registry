@@ -1,7 +1,7 @@
 {
   "schema_version": "2",
   "registry": "hub",
-  "generated_at": "2026-05-27T00:00:00Z",
+  "generated_at": "2026-05-31T00:00:00Z",
   "skills": [
     {
       "identity": "official/skill-authoring-guide",
@@ -404,6 +404,468 @@
       },
       "featured": true,
       "updated_at": "2026-05-27"
+    },
+    {
+      "identity": "superpowers/brainstorming",
+      "name": "brainstorming",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Explore user intent, requirements, and design before creative implementation work.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "brainstorming",
+        "design",
+        "planning"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/brainstorming",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Coordinate independent tasks that can run without shared state or sequential dependencies.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "agents",
+        "parallel",
+        "coordination"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/dispatching-parallel-agents",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/executing-plans",
+      "name": "executing-plans",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Execute a written implementation plan in a separate session with review checkpoints.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "plans",
+        "execution",
+        "review"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/executing-plans",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Choose how to integrate completed development work after verification passes.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "git",
+        "branch",
+        "release"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/finishing-a-development-branch",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/receiving-code-review",
+      "name": "receiving-code-review",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Handle code review feedback with technical rigor before implementing suggestions.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "review",
+        "feedback",
+        "quality"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/receiving-code-review",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/requesting-code-review",
+      "name": "requesting-code-review",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Request a focused review after completing substantial implementation work.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "review",
+        "quality",
+        "verification"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/requesting-code-review",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/subagent-driven-development",
+      "name": "subagent-driven-development",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Execute implementation plans by splitting independent work across subagents.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "agents",
+        "development",
+        "planning"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/subagent-driven-development",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/systematic-debugging",
+      "name": "systematic-debugging",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Debug unexpected behavior from evidence and root cause before changing code.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "debugging",
+        "root-cause",
+        "incident"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/systematic-debugging",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/test-driven-development",
+      "name": "test-driven-development",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Write failing tests before implementation for features, fixes, and behavior changes.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "testing",
+        "tdd",
+        "quality"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/test-driven-development",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/using-git-worktrees",
+      "name": "using-git-worktrees",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Create isolated git workspaces for feature work or implementation plans.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "git",
+        "worktree",
+        "isolation"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/using-git-worktrees",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/using-superpowers",
+      "name": "using-superpowers",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Load and follow applicable skills at the start of each conversation.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "skills",
+        "workflow",
+        "superpowers"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/using-superpowers",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/verification-before-completion",
+      "name": "verification-before-completion",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Run fresh verification before claiming work is complete, fixed, or passing.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "verification",
+        "testing",
+        "quality"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/verification-before-completion",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/writing-plans",
+      "name": "writing-plans",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Turn approved requirements into detailed implementation plans before code changes.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "planning",
+        "implementation",
+        "spec"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/writing-plans",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "superpowers/writing-skills",
+      "name": "writing-skills",
+      "namespace": "superpowers",
+      "version": "unversioned",
+      "description": "Create, edit, and verify skills before deployment.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "skills",
+        "authoring",
+        "verification"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/obra/superpowers.git",
+        "path": "skills/writing-skills",
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      },
+      "maintainers": [
+        "obra"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "curated",
+        "reviewed_at": "2026-05-31",
+        "reviewer": "CassianFlorin"
+      },
+      "featured": false,
+      "updated_at": "2026-05-31"
     }
   ]
 }
