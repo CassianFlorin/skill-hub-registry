@@ -1,0 +1,14 @@
+name: feishu-cli
+namespace: official
+version: 0.1.0
+description: Install, authenticate, verify, and use the Feishu CLI companion skill for Agent workflows.
+entry: SKILL.md
+targets:
+  - codex
+tags:
+  - feishu
+  - lark
+  - cli
+  - mcp
+  - integration
+author: skill-hub
