@@ -23,6 +23,7 @@ skills/
     skill-authoring-guide/
     obsidian-workflow/
     git-commit-cn/
+    feishu-cli/
     repo-code-review/
     systematic-debugging/
     release-readiness/
