@@ -18,6 +18,8 @@ jobs:
           python-version: "3.12"
       - name: Run registry validator tests
         run: python3 -m unittest tests/test_validate_registry.py
+      - name: Run git source sync tests
+        run: python3 -m unittest tests/test_sync_git_sources.py
       - name: Validate registry metadata
         run: python3 scripts/validate_registry.py
       - uses: actions/setup-go@v5

@@ -42,6 +42,7 @@ Run validation with a local `skillhub` binary:
 
 ```bash
 python3 -m unittest tests/test_validate_registry.py
+python3 -m unittest tests/test_sync_git_sources.py
 python3 scripts/validate_registry.py
 
 registry_root="$(pwd)"
@@ -59,6 +60,10 @@ skillhub catalog featured --registry hub
 
 ## Adding A Skill
 
+Registry entries can point to either a package stored in this repository or a package stored in an upstream git repository.
+
+For registry-local skills:
+
 1. Create a directory under `skills/<namespace>/<name>/`.
 2. Add `SKILL.md` as the runtime entrypoint.
 3. Add `skill.yaml` with `name`, `namespace`, `version`, `description`, `entry`, `targets`, `tags`, and `author`.
@@ -66,6 +71,22 @@ skillhub catalog featured --registry hub
 5. Run the validation commands above before opening a pull request.
 
 For registry-local skills, the index `identity` must equal `<namespace>/<name>`, and `source.path` must stay inside this repository.
+
+For git-backed skills:
+
+1. Add an entry in `skillhub.index.json` with `source.type` set to `git`, `source.url` set to the upstream repository, and `source.path` set to the skill directory inside that repository.
+2. Omit `source.ref` when the installed skill should follow the upstream default branch. Set `source.ref` to a tag or commit only when the catalog entry should stay pinned to a reviewed version.
+3. Refresh catalog metadata from the upstream skill package:
+
+```bash
+python3 scripts/sync_git_sources.py
+```
+
+Use check mode in review or automation when the index should already match upstream metadata:
+
+```bash
+python3 scripts/sync_git_sources.py --check
+```
 
 ## Trust Levels
 
