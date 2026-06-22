@@ -109,6 +109,23 @@ The workflow:
 
 The generated PR body lists each changed skill, old/new version, and changed metadata fields. Registry maintainers should review the upstream diff and merge the PR when the update is expected. New skills and trust-level promotions still require separate human-reviewed PRs.
 
+## Registry Security and Quality Scan
+
+Run the scanner before adding or promoting skills:
+
+```bash
+python3 scripts/scan_registry.py --report-json registry-scan-report.json
+```
+
+The scanner reports:
+
+- `secret` findings such as API keys, GitHub tokens, private keys, or hardcoded credential assignments.
+- `prompt-injection` findings such as instruction override language or secret exfiltration requests.
+- `shell-risk` findings such as `curl | sh`, destructive `rm -rf`, `sudo`, `eval`, `chmod 777`, or base64-to-shell patterns.
+- `license` findings for missing or non-allowlisted licenses.
+
+By default the scanner exits non-zero on `medium` or `high` findings. Use `--fail-on high` when you need a warning-only report for medium/low findings during investigation. The CI workflow uploads `registry-scan-report.json` as an artifact for review.
+
 ## Trust Levels
 
 - `official`: maintained and reviewed by the registry maintainers.
