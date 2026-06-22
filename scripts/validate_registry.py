@@ -147,6 +147,9 @@ def validate_source(root: Path, entry: dict[str, Any], scope: str, errors: list[
         source_ref = source.get("ref")
         if source_ref is not None and not is_non_empty_string(source_ref):
             add_error(errors, scope, "git source.ref must be a non-empty string when set")
+        sync_metadata = source.get("sync_metadata")
+        if sync_metadata is not None and not isinstance(sync_metadata, bool):
+            add_error(errors, scope, "git source.sync_metadata must be a boolean when set")
         return None
 
     if source_type != "registry":

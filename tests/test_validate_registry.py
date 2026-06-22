@@ -143,6 +143,7 @@ class ValidateRegistryTest(unittest.TestCase):
                 "url": "https://github.com/example/skills.git",
                 "path": "remote-demo",
                 "ref": "v0.1.0",
+                "sync_metadata": False,
             }
             write_index(root, [entry])
 

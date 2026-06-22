@@ -142,21 +142,87 @@ def synced_entry(entry: dict[str, Any], source_dir: Path, updated_at: str) -> di
     return updated
 
 
-def sync_index(root: Path, cache_dir: Path, updated_at: str, generated_at: str) -> tuple[dict[str, Any], list[str]]:
+def summarize_change(entry: dict[str, Any], new_entry: dict[str, Any]) -> dict[str, Any]:
+    source = entry.get("source", {}) if isinstance(entry.get("source"), dict) else {}
+    tracked_fields = ["version", "description", "targets", "tags", "maintainers", "checksum"]
+    changed_fields = [field for field in tracked_fields if entry.get(field) != new_entry.get(field)]
+    return {
+        "identity": new_entry.get("identity", entry.get("identity")),
+        "source_url": source.get("url"),
+        "source_path": source.get("path"),
+        "source_ref": source.get("ref"),
+        "old_version": entry.get("version"),
+        "new_version": new_entry.get("version"),
+        "old_checksum": entry.get("checksum"),
+        "new_checksum": new_entry.get("checksum"),
+        "changed_fields": changed_fields,
+    }
+
+
+def summarize_failure(identity: str, source: dict[str, Any], error: Exception) -> dict[str, Any]:
+    return {
+        "identity": identity,
+        "source_url": source.get("url"),
+        "source_path": source.get("path"),
+        "source_ref": source.get("ref"),
+        "error": str(error),
+    }
+
+
+def summarize_skip(identity: str, source: dict[str, Any], reason: str) -> dict[str, Any]:
+    return {
+        "identity": identity,
+        "source_url": source.get("url"),
+        "source_path": source.get("path"),
+        "source_ref": source.get("ref"),
+        "reason": reason,
+    }
+
+
+def build_summary(
+    changes: list[dict[str, Any]],
+    unchanged_count: int,
+    failures: list[dict[str, Any]],
+    skipped: list[dict[str, Any]],
+) -> dict[str, Any]:
+    return {
+        "changed_count": len(changes),
+        "unchanged_count": unchanged_count,
+        "failed_count": len(failures),
+        "skipped_count": len(skipped),
+        "changed": changes,
+        "failed": failures,
+        "skipped": skipped,
+    }
+
+
+def write_summary(path: Path, summary: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
+
+
+def sync_index(root: Path, cache_dir: Path, updated_at: str, generated_at: str, strict: bool = False) -> tuple[dict[str, Any], list[dict[str, Any]], int, list[dict[str, Any]], list[dict[str, Any]]]:
     index_path = root / "skillhub.index.json"
     index = json.loads(index_path.read_text(encoding="utf-8"))
     updated_index = copy.deepcopy(index)
-    changed: list[str] = []
+    changed: list[dict[str, Any]] = []
+    unchanged_count = 0
+    failures: list[dict[str, Any]] = []
+    skipped: list[dict[str, Any]] = []
 
     for position, entry in enumerate(index.get("skills", [])):
         source = entry.get("source", {})
         if not isinstance(source, dict) or source.get("type") != "git":
             continue
 
+        identity = entry.get("identity", f"skill[{position + 1}]")
+        if source.get("sync_metadata") is False:
+            skipped.append(summarize_skip(str(identity), source, "source.sync_metadata is false"))
+            continue
+
         source_url = source.get("url")
         source_path = source.get("path")
         source_ref = source.get("ref")
-        identity = entry.get("identity", f"skill[{position + 1}]")
         if not isinstance(source_url, str) or not source_url.strip():
             raise ValueError(f"{identity}: git source.url must be a non-empty string")
         if not isinstance(source_path, str) or not source_path.strip():
@@ -164,16 +230,24 @@ def sync_index(root: Path, cache_dir: Path, updated_at: str, generated_at: str) 
         if source_ref is not None and not isinstance(source_ref, str):
             raise ValueError(f"{identity}: git source.ref must be a string when set")
 
-        cache_path = ensure_git_cache(cache_dir, source_url, source_ref)
-        source_dir = safe_source_path(cache_path, source_path)
-        new_entry = synced_entry(entry, source_dir, updated_at)
+        try:
+            cache_path = ensure_git_cache(cache_dir, source_url, source_ref)
+            source_dir = safe_source_path(cache_path, source_path)
+            new_entry = synced_entry(entry, source_dir, updated_at)
+        except Exception as exc:
+            if strict:
+                raise
+            failures.append(summarize_failure(str(identity), source, exc))
+            continue
         if new_entry != entry:
-            changed.append(str(identity))
+            changed.append(summarize_change(entry, new_entry))
             updated_index["skills"][position] = new_entry
+        else:
+            unchanged_count += 1
 
     if changed:
         updated_index["generated_at"] = generated_at
-    return updated_index, changed
+    return updated_index, changed, unchanged_count, failures, skipped
 
 
 def write_index(root: Path, index: dict[str, Any]) -> None:
@@ -189,27 +263,37 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--updated-at", default=now.date().isoformat(), help="updated_at value for changed skills.")
     parser.add_argument("--generated-at", default=now.isoformat().replace("+00:00", "Z"), help="generated_at value when changes are found.")
     parser.add_argument("--check", action="store_true", help="Fail if git source metadata is out of sync.")
+    parser.add_argument("--summary-json", help="Write a JSON summary for automation PRs.")
+    parser.add_argument("--strict", action="store_true", help="Fail immediately when any git source cannot be synced.")
     args = parser.parse_args(argv)
 
     root = Path(args.root)
     cache_dir = Path(args.cache_dir) if args.cache_dir else root / ".cache" / "git-sources"
     try:
-        updated_index, changed = sync_index(root, cache_dir, args.updated_at, args.generated_at)
+        updated_index, changed, unchanged_count, failures, skipped = sync_index(root, cache_dir, args.updated_at, args.generated_at, strict=args.strict)
     except Exception as exc:
         print(f"sync git sources failed: {exc}", file=sys.stderr)
         return 2
 
+    summary = build_summary(changed, unchanged_count, failures, skipped)
+    if args.summary_json:
+        write_summary(Path(args.summary_json), summary)
+
     if args.check:
-        for identity in changed:
-            print(f"out of sync: {identity}", file=sys.stderr)
-        return 1 if changed else 0
+        for change in changed:
+            print(f"out of sync: {change['identity']}", file=sys.stderr)
+        for failure in failures:
+            print(f"sync failed: {failure['identity']}: {failure['error']}", file=sys.stderr)
+        return 1 if changed or failures else 0
 
     if changed:
         write_index(root, updated_index)
-        for identity in changed:
-            print(f"updated {identity}")
+        for change in changed:
+            print(f"updated {change['identity']}")
     else:
         print("git sources already current")
+    for failure in failures:
+        print(f"warning: sync failed: {failure['identity']}: {failure['error']}", file=sys.stderr)
     return 0
 
 

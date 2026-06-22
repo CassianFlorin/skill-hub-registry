@@ -456,7 +456,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/brainstorming",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -489,7 +490,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/dispatching-parallel-agents",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -522,7 +524,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/executing-plans",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -555,7 +558,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/finishing-a-development-branch",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -588,7 +592,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/receiving-code-review",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -621,7 +626,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/requesting-code-review",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -654,7 +660,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/subagent-driven-development",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -687,7 +694,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/systematic-debugging",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -720,7 +728,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/test-driven-development",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -753,7 +762,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/using-git-worktrees",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -786,7 +796,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/using-superpowers",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -819,7 +830,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/verification-before-completion",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -852,7 +864,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/writing-plans",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
@@ -885,7 +898,8 @@
         "type": "git",
         "url": "https://github.com/obra/superpowers.git",
         "path": "skills/writing-skills",
-        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+        "ref": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+        "sync_metadata": false
       },
       "maintainers": [
         "obra"
