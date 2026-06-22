@@ -76,7 +76,8 @@ For git-backed skills:
 
 1. Add an entry in `skillhub.index.json` with `source.type` set to `git`, `source.url` set to the upstream repository, and `source.path` set to the skill directory inside that repository.
 2. Omit `source.ref` when the installed skill should follow the upstream default branch. Set `source.ref` to a tag or commit only when the catalog entry should stay pinned to a reviewed version.
-3. Refresh catalog metadata from the upstream skill package:
+3. Set `source.sync_metadata` to `false` for git-backed entries whose catalog metadata is maintained manually because the upstream directory does not contain SkillHub-style `skill.yaml` metadata.
+4. Refresh catalog metadata from the upstream skill package:
 
 ```bash
 python3 scripts/sync_git_sources.py
@@ -87,6 +88,26 @@ Use check mode in review or automation when the index should already match upstr
 ```bash
 python3 scripts/sync_git_sources.py --check
 ```
+
+Write a machine-readable sync summary for automation PR bodies:
+
+```bash
+python3 scripts/sync_git_sources.py --summary-json sync-summary.json
+```
+
+## Automated Registry Maintenance
+
+Git-backed skill entries are maintained by the scheduled `Sync Git Sources` workflow. It runs daily and can also be started manually from GitHub Actions.
+
+The workflow:
+
+1. Runs `python3 scripts/sync_git_sources.py --summary-json sync-summary.json`.
+2. Refreshes `skillhub.index.json` from upstream `skill.yaml` metadata when a git-backed skill changed.
+3. Runs `python3 scripts/validate_registry.py`.
+4. Skips entries marked with `source.sync_metadata: false`.
+5. Opens or updates a pull request named `chore(registry): sync git-backed skill metadata` when the index changed.
+
+The generated PR body lists each changed skill, old/new version, and changed metadata fields. Registry maintainers should review the upstream diff and merge the PR when the update is expected. New skills and trust-level promotions still require separate human-reviewed PRs.
 
 ## Trust Levels
 
