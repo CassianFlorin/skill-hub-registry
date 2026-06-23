@@ -109,6 +109,34 @@ The workflow:
 
 The generated PR body lists each changed skill, old/new version, and changed metadata fields. Registry maintainers should review the upstream diff and merge the PR when the update is expected. New skills and trust-level promotions still require separate human-reviewed PRs.
 
+## GitHub Candidate Discovery
+
+Candidate discovery finds possible skill packages on GitHub but does **not** add them to the installable registry. It writes a low-trust candidate pool for maintainers to review:
+
+```bash
+python3 scripts/discover_candidates.py \
+  --use-default-github-queries \
+  --output candidates/discovered.json \
+  --report-json candidate-discovery-report.json
+```
+
+The `Discover Candidate Skills` workflow runs on a schedule and opens a PR only for `candidates/discovered.json`. Candidate entries start with:
+
+```text
+trust_level: discovered
+scan_status: pending
+```
+
+Maintainers must review, scan, and intentionally promote candidates before adding them to `skillhub.index.json`. This prevents GitHub discovery from becoming an automatic ingest firehose.
+
+For deterministic tests or offline review, pass one or more saved GitHub code-search API responses:
+
+```bash
+python3 scripts/discover_candidates.py \
+  --github-code-search-json fixtures/github-code-search.json \
+  --output candidates/discovered.json
+```
+
 ## Registry Security and Quality Scan
 
 Run the scanner before adding or promoting skills:

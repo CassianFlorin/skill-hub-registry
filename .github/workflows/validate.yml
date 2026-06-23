@@ -22,6 +22,8 @@ jobs:
         run: python3 -m unittest tests/test_sync_git_sources.py
       - name: Run registry scanner tests
         run: python3 -m unittest tests/test_scan_registry.py
+      - name: Run candidate discovery tests
+        run: python3 -m unittest tests/test_discover_candidates.py
       - name: Validate registry metadata
         run: python3 scripts/validate_registry.py
       - name: Scan registry security and quality
