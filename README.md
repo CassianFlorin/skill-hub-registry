@@ -129,6 +129,37 @@ scan_status: pending
 
 Maintainers must review, scan, and intentionally promote candidates before adding them to `skillhub.index.json`. This prevents GitHub discovery from becoming an automatic ingest firehose.
 
+Candidate ingest is explicit and review-driven. After selecting a candidate, add it to `skillhub.index.json` as a low-trust git entry:
+
+```bash
+python3 scripts/ingest_candidate.py \
+  --candidate-id github:owner/repo:skills/example \
+  --namespace community \
+  --version 0.1.0 \
+  --description "Reviewed skill description." \
+  --targets codex,claude \
+  --maintainer owner
+```
+
+The ingest tool removes the candidate from `candidates/discovered.json`, rejects duplicate git sources, and starts with:
+
+```text
+trust.level: community
+featured: false
+```
+
+After human review, promote trust explicitly:
+
+```bash
+python3 scripts/promote_trust.py \
+  --identity community/example \
+  --level curated \
+  --reviewer CassianFlorin \
+  --reviewed-at 2026-06-23
+```
+
+`curated` and `official` promotions require reviewer metadata. Use `--featured` only for reviewed entries that should appear in featured catalog views.
+
 For deterministic tests or offline review, pass one or more saved GitHub code-search API responses:
 
 ```bash
