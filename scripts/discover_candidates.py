@@ -144,13 +144,17 @@ def fetch_github_code_search(query: str, token: str | None, per_page: int) -> di
     return github_api_get(f"https://api.github.com/search/code?{params}", token)
 
 
-def load_search_payloads(paths: list[str], queries: list[str], token: str | None, per_page: int) -> list[dict[str, Any]]:
+def load_search_payloads(paths: list[str], queries: list[str], token: str | None, per_page: int) -> tuple[list[dict[str, Any]], list[dict[str, str]]]:
     payloads: list[dict[str, Any]] = []
+    query_errors: list[dict[str, str]] = []
     for raw_path in paths:
         payloads.append(load_json(Path(raw_path)))
     for query in queries:
-        payloads.append(fetch_github_code_search(query, token, per_page))
-    return payloads
+        try:
+            payloads.append(fetch_github_code_search(query, token, per_page))
+        except Exception as exc:
+            query_errors.append({"query": query, "error": str(exc)})
+    return payloads, query_errors
 
 
 def drafts_from_payloads(payloads: list[dict[str, Any]]) -> dict[tuple[str, str], CandidateDraft]:
@@ -244,10 +248,13 @@ def build_pool(candidates: list[dict[str, Any]], generated_at: str) -> dict[str,
     }
 
 
-def build_report(candidates: list[dict[str, Any]], skipped_existing: list[dict[str, Any]]) -> dict[str, Any]:
+def build_report(candidates: list[dict[str, Any]], skipped_existing: list[dict[str, Any]], query_errors: list[dict[str, str]] | None = None) -> dict[str, Any]:
+    query_errors = query_errors or []
     return {
         "candidate_count": len(candidates),
         "skipped_existing_count": len(skipped_existing),
+        "query_error_count": len(query_errors),
+        "query_errors": query_errors,
         "candidates": [
             {
                 "id": candidate["id"],
@@ -323,10 +330,10 @@ def main(argv: list[str] | None = None) -> int:
         return 2
 
     try:
-        payloads = load_search_payloads(args.github_code_search_json, queries, args.github_token, args.per_page)
+        payloads, query_errors = load_search_payloads(args.github_code_search_json, queries, args.github_token, args.per_page)
         candidates, skipped_existing = discover_candidates(root, payloads, args.discovered_at)
         pool = build_pool(candidates, args.discovered_at)
-        report = build_report(candidates, skipped_existing)
+        report = build_report(candidates, skipped_existing, query_errors)
     except Exception as exc:
         print(f"discover candidates failed: {exc}", file=sys.stderr)
         return 2
