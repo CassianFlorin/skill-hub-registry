@@ -45,8 +45,16 @@ jobs:
               "",
               f"- candidates: {report['candidate_count']}",
               f"- skipped existing registry sources: {report['skipped_existing_count']}",
+              f"- GitHub query errors: {report.get('query_error_count', 0)}",
               "",
           ]
+          if report.get("query_errors"):
+              lines.extend(["## Query errors", ""])
+              for error in report["query_errors"][:10]:
+                  lines.append(f"- `{error['query']}` — {error['error'].splitlines()[0]}")
+              if len(report["query_errors"]) > 10:
+                  lines.append(f"- ...and {len(report['query_errors']) - 10} more query errors")
+              lines.append("")
           if report.get("candidates"):
               lines.extend(["## Top candidates", ""])
               for candidate in report["candidates"][:25]:

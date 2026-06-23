@@ -6,6 +6,9 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
+
+import scripts.discover_candidates as discover_candidates
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -194,6 +197,38 @@ class DiscoverCandidatesTest(unittest.TestCase):
             self.assertEqual(initial.returncode, 0, initial.stdout + initial.stderr)
             self.assertEqual(check.returncode, 1, check.stdout + check.stderr)
             self.assertIn("candidate pool is out of date", check.stderr)
+    def test_soft_query_failures_are_reported_without_blocking_outputs(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            output = root / "candidates" / "discovered.json"
+            report = root / "candidate-discovery-report.json"
+            write_index(root, [])
+
+            with mock.patch.object(
+                discover_candidates,
+                "fetch_github_code_search",
+                side_effect=RuntimeError("GitHub API request failed (429): secondary rate limit"),
+            ):
+                payloads, query_errors = discover_candidates.load_search_payloads(
+                    [],
+                    ["path:skills filename:skill.yaml"],
+                    None,
+                    50,
+                )
+            candidates, skipped_existing = discover_candidates.discover_candidates(root, payloads, "2026-06-23T00:00:00Z")
+            pool = discover_candidates.build_pool(candidates, "2026-06-23T00:00:00Z")
+            summary = discover_candidates.build_report(candidates, skipped_existing, query_errors)
+            discover_candidates.write_json(output, pool)
+            discover_candidates.write_json(report, summary)
+
+            self.assertEqual(payloads, [])
+            self.assertEqual(len(query_errors), 1)
+            self.assertIn("secondary rate limit", query_errors[0]["error"])
+            self.assertEqual(json.loads(output.read_text(encoding="utf-8"))["candidates"], [])
+            saved_report = json.loads(report.read_text(encoding="utf-8"))
+            self.assertEqual(saved_report["candidate_count"], 0)
+            self.assertEqual(saved_report["query_error_count"], 1)
+            self.assertEqual(saved_report["query_errors"][0]["query"], "path:skills filename:skill.yaml")
 
 
 if __name__ == "__main__":
