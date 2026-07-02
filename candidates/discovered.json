@@ -1,6 +1,399 @@
 {
-  "candidates": [],
+  "candidates": [
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:GetBindu/Bindu:examples/multilingual-collab-agent/skills/translate",
+      "license": "NOASSERTION",
+      "name": "translate",
+      "namespace": "discovered",
+      "repo": "GetBindu/Bindu",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/GetBindu/Bindu",
+      "scan_status": "pending",
+      "source": {
+        "path": "examples/multilingual-collab-agent/skills/translate",
+        "type": "git",
+        "url": "https://github.com/GetBindu/Bindu.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/GetBindu/Bindu/blob/e9e82b934da2b05dcd49e0299dc13f7704ac067d/examples/multilingual-collab-agent/skills/translate/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:YuChia-Wei/ai-collaboration-prompts-dotnet-backend:.ai/assets/skills/ai-context-governance",
+      "license": "NOASSERTION",
+      "name": "ai-context-governance",
+      "namespace": "discovered",
+      "repo": "YuChia-Wei/ai-collaboration-prompts-dotnet-backend",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/YuChia-Wei/ai-collaboration-prompts-dotnet-backend",
+      "scan_status": "pending",
+      "source": {
+        "path": ".ai/assets/skills/ai-context-governance",
+        "type": "git",
+        "url": "https://github.com/YuChia-Wei/ai-collaboration-prompts-dotnet-backend.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/YuChia-Wei/ai-collaboration-prompts-dotnet-backend/blob/4a6e73b158544681f84e719c1575bb8db5947fa9/.ai/assets/skills/ai-context-governance/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:bahaaldine/moltler:hub/skills/elastic/agent-builder/get-agent",
+      "license": "NOASSERTION",
+      "name": "get-agent",
+      "namespace": "discovered",
+      "repo": "bahaaldine/moltler",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/bahaaldine/moltler",
+      "scan_status": "pending",
+      "source": {
+        "path": "hub/skills/elastic/agent-builder/get-agent",
+        "type": "git",
+        "url": "https://github.com/bahaaldine/moltler.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/bahaaldine/moltler/blob/57a1e4eaf5d95c48894de2636c4047c4ac30bcf5/hub/skills/elastic/agent-builder/get-agent/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:bahaaldine/moltler:hub/skills/elastic/agent-builder/list-agents",
+      "license": "NOASSERTION",
+      "name": "list-agents",
+      "namespace": "discovered",
+      "repo": "bahaaldine/moltler",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/bahaaldine/moltler",
+      "scan_status": "pending",
+      "source": {
+        "path": "hub/skills/elastic/agent-builder/list-agents",
+        "type": "git",
+        "url": "https://github.com/bahaaldine/moltler.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/bahaaldine/moltler/blob/57a1e4eaf5d95c48894de2636c4047c4ac30bcf5/hub/skills/elastic/agent-builder/list-agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:fetchai/agents-aea:packages/fetchai/skills/aries_alice",
+      "license": "NOASSERTION",
+      "name": "aries-alice",
+      "namespace": "discovered",
+      "repo": "fetchai/agents-aea",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/fetchai/agents-aea",
+      "scan_status": "pending",
+      "source": {
+        "path": "packages/fetchai/skills/aries_alice",
+        "type": "git",
+        "url": "https://github.com/fetchai/agents-aea.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/fetchai/agents-aea/blob/bec49adaeba661d8d0f03ac9935dc89f39d95a0d/packages/fetchai/skills/aries_alice/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:fetchai/agents-aea:packages/fetchai/skills/confirmation_aw1",
+      "license": "NOASSERTION",
+      "name": "confirmation-aw1",
+      "namespace": "discovered",
+      "repo": "fetchai/agents-aea",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/fetchai/agents-aea",
+      "scan_status": "pending",
+      "source": {
+        "path": "packages/fetchai/skills/confirmation_aw1",
+        "type": "git",
+        "url": "https://github.com/fetchai/agents-aea.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/fetchai/agents-aea/blob/bec49adaeba661d8d0f03ac9935dc89f39d95a0d/packages/fetchai/skills/confirmation_aw1/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:fetchai/agents-aea:packages/fetchai/skills/gym",
+      "license": "NOASSERTION",
+      "name": "gym",
+      "namespace": "discovered",
+      "repo": "fetchai/agents-aea",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/fetchai/agents-aea",
+      "scan_status": "pending",
+      "source": {
+        "path": "packages/fetchai/skills/gym",
+        "type": "git",
+        "url": "https://github.com/fetchai/agents-aea.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/fetchai/agents-aea/blob/bec49adaeba661d8d0f03ac9935dc89f39d95a0d/packages/fetchai/skills/gym/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:fetchai/agents-aea:packages/fetchai/skills/registration_aw1",
+      "license": "NOASSERTION",
+      "name": "registration-aw1",
+      "namespace": "discovered",
+      "repo": "fetchai/agents-aea",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/fetchai/agents-aea",
+      "scan_status": "pending",
+      "source": {
+        "path": "packages/fetchai/skills/registration_aw1",
+        "type": "git",
+        "url": "https://github.com/fetchai/agents-aea.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/fetchai/agents-aea/blob/bec49adaeba661d8d0f03ac9935dc89f39d95a0d/packages/fetchai/skills/registration_aw1/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:gfernandf/agent-skills:skills/official/agent",
+      "license": "NOASSERTION",
+      "name": "agent",
+      "namespace": "discovered",
+      "repo": "gfernandf/agent-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/gfernandf/agent-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/official/agent",
+        "type": "git",
+        "url": "https://github.com/gfernandf/agent-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/gfernandf/agent-skills/blob/2b854602f27866725ec2241e5c46e94624c79e51/skills/official/agent/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:kweaver-ai/kweaver-core:adp/execution-factory/operator-integration/docs/apis/api_private",
+      "license": "NOASSERTION",
+      "name": "api-private",
+      "namespace": "discovered",
+      "repo": "kweaver-ai/kweaver-core",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/kweaver-ai/kweaver-core",
+      "scan_status": "pending",
+      "source": {
+        "path": "adp/execution-factory/operator-integration/docs/apis/api_private",
+        "type": "git",
+        "url": "https://github.com/kweaver-ai/kweaver-core.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/kweaver-ai/kweaver-core/blob/b9b35fb245c31660127114c883e91165b42dc8f0/adp/execution-factory/operator-integration/docs/apis/api_private/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-:Skills/Agentic_AI/Multimodal_Agents",
+      "license": "NOASSERTION",
+      "name": "multimodal-agents",
+      "namespace": "discovered",
+      "repo": "mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-",
+      "scan_status": "pending",
+      "source": {
+        "path": "Skills/Agentic_AI/Multimodal_Agents",
+        "type": "git",
+        "url": "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-/blob/9b94a3cde1d03e30639d2469d3d8672749898a8a/Skills/Agentic_AI/Multimodal_Agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:oodercn/skills:skills/scenes/skill-agent-recommendation",
+      "license": "NOASSERTION",
+      "name": "skill-agent-recommendation",
+      "namespace": "discovered",
+      "repo": "oodercn/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/oodercn/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/scenes/skill-agent-recommendation",
+        "type": "git",
+        "url": "https://github.com/oodercn/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/oodercn/skills/blob/7951577fdadab6e6c75a3cd0106d3493f67e11ed/skills/scenes/skill-agent-recommendation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:valory-xyz/trader:packages/valory/skills/agent_performance_summary_abci",
+      "license": "NOASSERTION",
+      "name": "agent-performance-summary-abci",
+      "namespace": "discovered",
+      "repo": "valory-xyz/trader",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/valory-xyz/trader",
+      "scan_status": "pending",
+      "source": {
+        "path": "packages/valory/skills/agent_performance_summary_abci",
+        "type": "git",
+        "url": "https://github.com/valory-xyz/trader.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/valory-xyz/trader/blob/dccb71a2917e25db5656cb6166206920f7d42613/packages/valory/skills/agent_performance_summary_abci/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-07-02T07:36:08.541689Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/ai-agents-architect",
+      "license": "NOASSERTION",
+      "name": "ai-agents-architect",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/ai-agents-architect",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/ai-agents-architect/skill.yaml"
+      ]
+    }
+  ],
   "description": "Discovered skill candidates. Human review is required before registry ingest.",
-  "generated_at": "2026-07-01T08:16:37.204857Z",
+  "generated_at": "2026-07-02T07:36:08.541689Z",
   "schema_version": "1"
 }
