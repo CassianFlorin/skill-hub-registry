@@ -1,6 +1,8 @@
 # skill-hub-registry
 
-Official catalog registry for `skill-hub`.
+Official catalog registry for [`skill-hub`](https://github.com/CassianFlorin/skill-hub).
+
+Want to publish your own Skill to the catalog? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 This repository is consumed by:
 
@@ -59,6 +61,8 @@ skillhub catalog featured --registry hub
 ```
 
 ## Adding A Skill
+
+Community submissions: follow the step-by-step guide in [CONTRIBUTING.md](CONTRIBUTING.md). The rest of this section documents the underlying entry formats.
 
 Registry entries can point to either a package stored in this repository or a package stored in an upstream git repository.
 
