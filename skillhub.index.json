@@ -438,6 +438,40 @@
       "updated_at": "2026-05-27"
     },
     {
+      "identity": "xquik/x-twitter-scraper",
+      "name": "x-twitter-scraper",
+      "namespace": "xquik",
+      "version": "2.4.16",
+      "description": "Use Xquik REST API and MCP workflows for X data, exports, monitoring, webhooks, and confirmation-gated actions.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "x",
+        "twitter",
+        "api",
+        "mcp",
+        "social-media"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/Xquik-dev/x-twitter-scraper.git",
+        "path": "skills/x-twitter-scraper",
+        "ref": "8a94746f45260c3a08dcbc42ca2d03a046359fb1",
+        "sync_metadata": false
+      },
+      "maintainers": [
+        "Xquik-dev"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "community"
+      },
+      "featured": false,
+      "updated_at": "2026-07-09"
+    },
+    {
       "identity": "superpowers/brainstorming",
       "name": "brainstorming",
       "namespace": "superpowers",
