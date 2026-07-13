@@ -156,9 +156,12 @@ class ValidateRegistryTest(unittest.TestCase):
         result = run_validator(REPO_ROOT)
 
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("registry validation passed: 28 skills", result.stdout)
-
         index = json.loads((REPO_ROOT / "skillhub.index.json").read_text(encoding="utf-8"))
+        self.assertIn(
+            f"registry validation passed: {len(index['skills'])} skills",
+            result.stdout,
+        )
+
         identities = {entry["identity"] for entry in index["skills"]}
         self.assertIn("official/feishu-cli", identities)
 
