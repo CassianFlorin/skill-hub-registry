@@ -1,6 +1,5159 @@
 {
-  "candidates": [],
+  "candidates": [
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:24601/surreal-skills:.",
+      "license": "NOASSERTION",
+      "name": "surreal-skills",
+      "namespace": "discovered",
+      "repo": "24601/surreal-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/24601/surreal-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/24601/surreal-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/24601/surreal-skills/blob/4e66534bc9e56699c471cd7739297c7e184656b0/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Agent-Card/ai-catalog-cli:.",
+      "license": "NOASSERTION",
+      "name": "ai-catalog-cli",
+      "namespace": "discovered",
+      "repo": "Agent-Card/ai-catalog-cli",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Agent-Card/ai-catalog-cli",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/Agent-Card/ai-catalog-cli.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Agent-Card/ai-catalog-cli/blob/734bf3574880ef15c23e2924a272ab381b09fd70/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:AxiosLeo/node-orm-mysql:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "AxiosLeo/node-orm-mysql",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/AxiosLeo/node-orm-mysql",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/AxiosLeo/node-orm-mysql.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/AxiosLeo/node-orm-mysql/blob/b844f80e00012dbd707081e1ff7b90724f358317/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:CyberStrategyInstitute/ai-safe2-framework:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "CyberStrategyInstitute/ai-safe2-framework",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/CyberStrategyInstitute/ai-safe2-framework",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/CyberStrategyInstitute/ai-safe2-framework.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/CyberStrategyInstitute/ai-safe2-framework/blob/28aa1d8937b9a2ce482c329d7d4c17b3aa70d1ea/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:DanielPan12/JobHuntBot:.",
+      "license": "NOASSERTION",
+      "name": "jobhuntbot",
+      "namespace": "discovered",
+      "repo": "DanielPan12/JobHuntBot",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/DanielPan12/JobHuntBot",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/DanielPan12/JobHuntBot.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/DanielPan12/JobHuntBot/blob/f35c67e34ed95d7d170e88c254c7bcc68a533ede/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:DenisSergeevitch/repo-task-proof-loop:.",
+      "license": "NOASSERTION",
+      "name": "repo-task-proof-loop",
+      "namespace": "discovered",
+      "repo": "DenisSergeevitch/repo-task-proof-loop",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/DenisSergeevitch/repo-task-proof-loop",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/DenisSergeevitch/repo-task-proof-loop.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/DenisSergeevitch/repo-task-proof-loop/blob/853622144588798dc1b3babc81ed9499328321bf/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Do1e/mijia-api:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "Do1e/mijia-api",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Do1e/mijia-api",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/Do1e/mijia-api.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Do1e/mijia-api/blob/353363f79ea6f368461dc77c6de22d6f85623990/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Free-The-Ai/free-ai:.",
+      "license": "NOASSERTION",
+      "name": "free-ai",
+      "namespace": "discovered",
+      "repo": "Free-The-Ai/free-ai",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Free-The-Ai/free-ai",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/Free-The-Ai/free-ai.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Free-The-Ai/free-ai/blob/339f81b690b137baec561c876ac1937fb1c46d91/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:GetBindu/Bindu:examples/multilingual-collab-agent/skills/collaborate",
+      "license": "NOASSERTION",
+      "name": "collaborate",
+      "namespace": "discovered",
+      "repo": "GetBindu/Bindu",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/GetBindu/Bindu",
+      "scan_status": "pending",
+      "source": {
+        "path": "examples/multilingual-collab-agent/skills/collaborate",
+        "type": "git",
+        "url": "https://github.com/GetBindu/Bindu.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/GetBindu/Bindu/blob/ad42cc8ddaa565cd6b9751cf75fadd849c1e8649/examples/multilingual-collab-agent/skills/collaborate/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:GetBindu/Bindu:examples/news-summarizer/skills/news-summarization",
+      "license": "NOASSERTION",
+      "name": "news-summarization",
+      "namespace": "discovered",
+      "repo": "GetBindu/Bindu",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/GetBindu/Bindu",
+      "scan_status": "pending",
+      "source": {
+        "path": "examples/news-summarizer/skills/news-summarization",
+        "type": "git",
+        "url": "https://github.com/GetBindu/Bindu.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/GetBindu/Bindu/blob/ad42cc8ddaa565cd6b9751cf75fadd849c1e8649/examples/news-summarizer/skills/news-summarization/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:GetBindu/Bindu:examples/summarizer/skills/text-summarization-skill",
+      "license": "NOASSERTION",
+      "name": "text-summarization-skill",
+      "namespace": "discovered",
+      "repo": "GetBindu/Bindu",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/GetBindu/Bindu",
+      "scan_status": "pending",
+      "source": {
+        "path": "examples/summarizer/skills/text-summarization-skill",
+        "type": "git",
+        "url": "https://github.com/GetBindu/Bindu.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/GetBindu/Bindu/blob/ad42cc8ddaa565cd6b9751cf75fadd849c1e8649/examples/summarizer/skills/text-summarization-skill/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Goldentrii/AgentRecall-X:.",
+      "license": "NOASSERTION",
+      "name": "agentrecall-x",
+      "namespace": "discovered",
+      "repo": "Goldentrii/AgentRecall-X",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Goldentrii/AgentRecall-X",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/Goldentrii/AgentRecall-X.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Goldentrii/AgentRecall-X/blob/bcc480d3bf4bfa6cc55e6bb305e9fe7c6f9f392e/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Higangssh/homebutler:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "Higangssh/homebutler",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Higangssh/homebutler",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/Higangssh/homebutler.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Higangssh/homebutler/blob/0210fbddf169580f51efe62860a9f6698cbe9fc6/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Hyaxia/blogwatcher:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "Hyaxia/blogwatcher",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Hyaxia/blogwatcher",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/Hyaxia/blogwatcher.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Hyaxia/blogwatcher/blob/58acfeb16258bd0e64d72f8f977ae8143cae5fa3/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Kaggle/kaggle-cli:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "Kaggle/kaggle-cli",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Kaggle/kaggle-cli",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/Kaggle/kaggle-cli.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Kaggle/kaggle-cli/blob/659469c4185cfca0fb3be01edad6f50277528d9d/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/cann-review",
+      "license": "NOASSERTION",
+      "name": "cann-review",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/cann-review",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/cann-review/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/hs",
+      "license": "NOASSERTION",
+      "name": "hs",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/hs",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/hs/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/meng",
+      "license": "NOASSERTION",
+      "name": "meng",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/meng",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/meng/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/moltguild-clawd",
+      "license": "NOASSERTION",
+      "name": "moltguild-clawd",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/moltguild-clawd",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/moltguild-clawd/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/sili-ville",
+      "license": "NOASSERTION",
+      "name": "sili-ville",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/sili-ville",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/sili-ville/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/siliville",
+      "license": "NOASSERTION",
+      "name": "siliville",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/siliville",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/siliville/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/silivillecn",
+      "license": "NOASSERTION",
+      "name": "silivillecn",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/silivillecn",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/silivillecn/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/who-is-actor",
+      "license": "NOASSERTION",
+      "name": "who-is-actor",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/who-is-actor",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/who-is-actor/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Paidax01/web-to-design-md:.",
+      "license": "NOASSERTION",
+      "name": "web-to-design-md",
+      "namespace": "discovered",
+      "repo": "Paidax01/web-to-design-md",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Paidax01/web-to-design-md",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/Paidax01/web-to-design-md.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Paidax01/web-to-design-md/blob/8a08b3e8339bff21da059c6fb84380cb996e3fbf/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Paper2Poster/Paper2Poster:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "Paper2Poster/Paper2Poster",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Paper2Poster/Paper2Poster",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/Paper2Poster/Paper2Poster.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Paper2Poster/Paper2Poster/blob/623d042f283acee782b2644d6abd63f75eccfa1f/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:PixelML/agenticflow-skill:.",
+      "license": "NOASSERTION",
+      "name": "agenticflow-skill",
+      "namespace": "discovered",
+      "repo": "PixelML/agenticflow-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/PixelML/agenticflow-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/PixelML/agenticflow-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/PixelML/agenticflow-skill/blob/3a8c08434304fbf0d6066e49a0039632aa006a57/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:ProjectOpenSea/opensea-skill:.",
+      "license": "NOASSERTION",
+      "name": "opensea-skill",
+      "namespace": "discovered",
+      "repo": "ProjectOpenSea/opensea-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ProjectOpenSea/opensea-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/ProjectOpenSea/opensea-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ProjectOpenSea/opensea-skill/blob/70c513e73b8bf429affbd680ac6f2ae043c396b5/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Q00/ouroboros:skills/pm",
+      "license": "NOASSERTION",
+      "name": "pm",
+      "namespace": "discovered",
+      "repo": "Q00/ouroboros",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Q00/ouroboros",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/pm",
+        "type": "git",
+        "url": "https://github.com/Q00/ouroboros.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Q00/ouroboros/blob/03714ba446186423dcb46e25d12bd19c3a2e82f6/skills/pm/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Quantco/dataframely:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "Quantco/dataframely",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Quantco/dataframely",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/Quantco/dataframely.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Quantco/dataframely/blob/2b03dadd6460824e46acd441d4a2c58853895d6d/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Raftersecurity/rafter-cli:.",
+      "license": "NOASSERTION",
+      "name": "rafter-cli",
+      "namespace": "discovered",
+      "repo": "Raftersecurity/rafter-cli",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Raftersecurity/rafter-cli",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/Raftersecurity/rafter-cli.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Raftersecurity/rafter-cli/blob/1ee4d26d56d593c24d3296fb00e21d2d2cc1eb84/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:SethGammon/Citadel:skills/do",
+      "license": "NOASSERTION",
+      "name": "do",
+      "namespace": "discovered",
+      "repo": "SethGammon/Citadel",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/SethGammon/Citadel",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/do",
+        "type": "git",
+        "url": "https://github.com/SethGammon/Citadel.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/SethGammon/Citadel/blob/e66ecba914e98f66a7abcc9f0d0199b2293a7e8a/skills/do/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Sidiora-Labs/ion-agent:skills/dogfood",
+      "license": "NOASSERTION",
+      "name": "dogfood",
+      "namespace": "discovered",
+      "repo": "Sidiora-Labs/ion-agent",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Sidiora-Labs/ion-agent",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/dogfood",
+        "type": "git",
+        "url": "https://github.com/Sidiora-Labs/ion-agent.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Sidiora-Labs/ion-agent/blob/d8ec3651c8394b3080ff698f27edb09c45ce4827/skills/dogfood/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Sidiora-Labs/ion-agent:skills/software-development/ion-agent-skill-authoring",
+      "license": "NOASSERTION",
+      "name": "ion-agent-skill-authoring",
+      "namespace": "discovered",
+      "repo": "Sidiora-Labs/ion-agent",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Sidiora-Labs/ion-agent",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/software-development/ion-agent-skill-authoring",
+        "type": "git",
+        "url": "https://github.com/Sidiora-Labs/ion-agent.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Sidiora-Labs/ion-agent/blob/d8ec3651c8394b3080ff698f27edb09c45ce4827/skills/software-development/ion-agent-skill-authoring/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:SpaceZephyr/creator-buddy:.",
+      "license": "NOASSERTION",
+      "name": "creator-buddy",
+      "namespace": "discovered",
+      "repo": "SpaceZephyr/creator-buddy",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/SpaceZephyr/creator-buddy",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/SpaceZephyr/creator-buddy.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/SpaceZephyr/creator-buddy/blob/edf46c567ff54b72ee2157d06f3a02dbd67aaa9c/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:Tencent/WeChatReading:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "Tencent/WeChatReading",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/Tencent/WeChatReading",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/Tencent/WeChatReading.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/Tencent/WeChatReading/blob/315698a8da1810fab0bbf24a52b38a6960e54cdc/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:TianGzlab/OmicsClaw:skills/literature",
+      "license": "NOASSERTION",
+      "name": "literature",
+      "namespace": "discovered",
+      "repo": "TianGzlab/OmicsClaw",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/TianGzlab/OmicsClaw",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/literature",
+        "type": "git",
+        "url": "https://github.com/TianGzlab/OmicsClaw.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/TianGzlab/OmicsClaw/blob/6fbd79f262e3fd3552efe9f675574ffb165019ab/skills/literature/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:TianGzlab/OmicsClaw:skills/orchestrator",
+      "license": "NOASSERTION",
+      "name": "orchestrator",
+      "namespace": "discovered",
+      "repo": "TianGzlab/OmicsClaw",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/TianGzlab/OmicsClaw",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/orchestrator",
+        "type": "git",
+        "url": "https://github.com/TianGzlab/OmicsClaw.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/TianGzlab/OmicsClaw/blob/6fbd79f262e3fd3552efe9f675574ffb165019ab/skills/orchestrator/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:TianGzlab/OmicsClaw:skills/spatial/spatial-de",
+      "license": "NOASSERTION",
+      "name": "spatial-de",
+      "namespace": "discovered",
+      "repo": "TianGzlab/OmicsClaw",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/TianGzlab/OmicsClaw",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/spatial/spatial-de",
+        "type": "git",
+        "url": "https://github.com/TianGzlab/OmicsClaw.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/TianGzlab/OmicsClaw/blob/6fbd79f262e3fd3552efe9f675574ffb165019ab/skills/spatial/spatial-de/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:UditAkhourii/branerail:.",
+      "license": "NOASSERTION",
+      "name": "branerail",
+      "namespace": "discovered",
+      "repo": "UditAkhourii/branerail",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/UditAkhourii/branerail",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/UditAkhourii/branerail.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/UditAkhourii/branerail/blob/44c4e501efa7ad0e03fa8bbbd24b5229522c136f/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:WEIFENG2333/VideoCaptioner:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "WEIFENG2333/VideoCaptioner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/WEIFENG2333/VideoCaptioner",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/WEIFENG2333/VideoCaptioner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/WEIFENG2333/VideoCaptioner/blob/95842ecb5618c0b6a548a336bdfb0eb859bdb501/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:ZhuLinsen/alphasift:.",
+      "license": "NOASSERTION",
+      "name": "alphasift",
+      "namespace": "discovered",
+      "repo": "ZhuLinsen/alphasift",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ZhuLinsen/alphasift",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/ZhuLinsen/alphasift.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ZhuLinsen/alphasift/blob/9f522747caafd3c0b1ddb7e14d5cf44c8580b6cf/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:a554b554/Reactant:skills/ph",
+      "license": "NOASSERTION",
+      "name": "ph",
+      "namespace": "discovered",
+      "repo": "a554b554/Reactant",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/a554b554/Reactant",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/ph",
+        "type": "git",
+        "url": "https://github.com/a554b554/Reactant.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/a554b554/Reactant/blob/0c69b3aed3a6e4925e5df586e61e0202e7384a73/skills/ph/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:aAAaqwq/AGI-Super-Team:skills/git-workflow",
+      "license": "NOASSERTION",
+      "name": "git-workflow",
+      "namespace": "discovered",
+      "repo": "aAAaqwq/AGI-Super-Team",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/aAAaqwq/AGI-Super-Team",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/git-workflow",
+        "type": "git",
+        "url": "https://github.com/aAAaqwq/AGI-Super-Team.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/aAAaqwq/AGI-Super-Team/blob/0c0234ccb1cde070f27e92e4cf8f559b94ba4cec/skills/git-workflow/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:aashaexo/soundshuman:.",
+      "license": "NOASSERTION",
+      "name": "soundshuman",
+      "namespace": "discovered",
+      "repo": "aashaexo/soundshuman",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/aashaexo/soundshuman",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/aashaexo/soundshuman.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/aashaexo/soundshuman/blob/a45cfbba9fde843d670e553a0aa98f6a23d7fb28/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:abiosoft/colima:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "abiosoft/colima",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/abiosoft/colima",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/abiosoft/colima.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/abiosoft/colima/blob/c3a5f9184d83a197184f897a9f07eb3c01b3bc88/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:actboy168/luamake:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "actboy168/luamake",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/actboy168/luamake",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/actboy168/luamake.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/actboy168/luamake/blob/f999945cfba46a2aa0a5cc90e1198b3796c5b49d/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:alchaincyf/huashu-excel:.",
+      "license": "NOASSERTION",
+      "name": "huashu-excel",
+      "namespace": "discovered",
+      "repo": "alchaincyf/huashu-excel",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/alchaincyf/huashu-excel",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/alchaincyf/huashu-excel.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/alchaincyf/huashu-excel/blob/9348581a87cc03ed8d0b30706631088e922c6027/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:alchaincyf/x-mentor-skill:.",
+      "license": "NOASSERTION",
+      "name": "x-mentor-skill",
+      "namespace": "discovered",
+      "repo": "alchaincyf/x-mentor-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/alchaincyf/x-mentor-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/alchaincyf/x-mentor-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/alchaincyf/x-mentor-skill/blob/f913c720135e54828dc1ea8f4fa256a5e32fe5bb/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:alibaba/arthas:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "alibaba/arthas",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/alibaba/arthas",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/alibaba/arthas.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/alibaba/arthas/blob/be42fd932a26456988b97d863087b116de19253f/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:antvis/L7:skills/release-l7",
+      "license": "NOASSERTION",
+      "name": "release-l7",
+      "namespace": "discovered",
+      "repo": "antvis/L7",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/antvis/L7",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/release-l7",
+        "type": "git",
+        "url": "https://github.com/antvis/L7.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/antvis/L7/blob/6e3dbfe392b687231447088333da9b0efbfcae53/skills/release-l7/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:app-incubator-xyz/skill-vetter:.",
+      "license": "NOASSERTION",
+      "name": "skill-vetter",
+      "namespace": "discovered",
+      "repo": "app-incubator-xyz/skill-vetter",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/app-incubator-xyz/skill-vetter",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/app-incubator-xyz/skill-vetter.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/app-incubator-xyz/skill-vetter/blob/d1038aeae6f7b0f16b01d20dc9bff38c35a16204/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:ariffazil/arifOS:skills/git-ops",
+      "license": "NOASSERTION",
+      "name": "git-ops",
+      "namespace": "discovered",
+      "repo": "ariffazil/arifOS",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ariffazil/arifOS",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/git-ops",
+        "type": "git",
+        "url": "https://github.com/ariffazil/arifOS.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ariffazil/arifOS/blob/60097b03d7fb6df3471c72e5aa537ecc5ab779c5/skills/git-ops/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:atoms-studio/nuxt-swiftsearch:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "atoms-studio/nuxt-swiftsearch",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/atoms-studio/nuxt-swiftsearch",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/atoms-studio/nuxt-swiftsearch.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/atoms-studio/nuxt-swiftsearch/blob/df27cd43e8310e06eb6461cba7b1eb09e86cc3b5/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:awrshift/skill-telegram:.",
+      "license": "NOASSERTION",
+      "name": "skill-telegram",
+      "namespace": "discovered",
+      "repo": "awrshift/skill-telegram",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/awrshift/skill-telegram",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/awrshift/skill-telegram.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/awrshift/skill-telegram/blob/f1eda1b9d8adf5d428e13fc27e5ed6c7e756552a/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:better-auth/better-icons:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "better-auth/better-icons",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/better-auth/better-icons",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/better-auth/better-icons.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/better-auth/better-icons/blob/033316ecb8f4982235af4111a2257e80231f5ab1/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:better-world-ai/agent-cli-creator:.",
+      "license": "NOASSERTION",
+      "name": "agent-cli-creator",
+      "namespace": "discovered",
+      "repo": "better-world-ai/agent-cli-creator",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/better-world-ai/agent-cli-creator",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/better-world-ai/agent-cli-creator.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/better-world-ai/agent-cli-creator/blob/ed471104079476b9f6d47481272324611dac25c8/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:buluslan/review-analyzer-skill:.",
+      "license": "NOASSERTION",
+      "name": "review-analyzer-skill",
+      "namespace": "discovered",
+      "repo": "buluslan/review-analyzer-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/buluslan/review-analyzer-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/buluslan/review-analyzer-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/buluslan/review-analyzer-skill/blob/f37aeb1c134c7e5a61e79db077fc50d08b4c358e/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:chenjin-cmd/wechat-miniprogram-builder:.",
+      "license": "NOASSERTION",
+      "name": "wechat-miniprogram-builder",
+      "namespace": "discovered",
+      "repo": "chenjin-cmd/wechat-miniprogram-builder",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/chenjin-cmd/wechat-miniprogram-builder",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/chenjin-cmd/wechat-miniprogram-builder.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/chenjin-cmd/wechat-miniprogram-builder/blob/e8bba7855d9209451b2d2b5a9fa17c15b8d42401/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:chentao326/teacher-skill:.",
+      "license": "NOASSERTION",
+      "name": "teacher-skill",
+      "namespace": "discovered",
+      "repo": "chentao326/teacher-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/chentao326/teacher-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/chentao326/teacher-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/chentao326/teacher-skill/blob/86056ac80f9e5f80c1e965a0de7e358ca54f4bdc/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:cisco-ai-defense/defenseclaw:skills/codeguard",
+      "license": "NOASSERTION",
+      "name": "codeguard",
+      "namespace": "discovered",
+      "repo": "cisco-ai-defense/defenseclaw",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/cisco-ai-defense/defenseclaw",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/codeguard",
+        "type": "git",
+        "url": "https://github.com/cisco-ai-defense/defenseclaw.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/cisco-ai-defense/defenseclaw/blob/77d215a84ad8214abbaa9340afbcac4429577526/skills/codeguard/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:clawplays/ospec:.",
+      "license": "NOASSERTION",
+      "name": "ospec",
+      "namespace": "discovered",
+      "repo": "clawplays/ospec",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/clawplays/ospec",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/clawplays/ospec.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/clawplays/ospec/blob/be449f2ce6986c62410a34b3bd4521d2f952a19c/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:crazyguitar/pysheeet:skills/py",
+      "license": "NOASSERTION",
+      "name": "py",
+      "namespace": "discovered",
+      "repo": "crazyguitar/pysheeet",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/crazyguitar/pysheeet",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/py",
+        "type": "git",
+        "url": "https://github.com/crazyguitar/pysheeet.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/crazyguitar/pysheeet/blob/30a9b7761cb09f7f46e57e3fbdf85ea145f34384/skills/py/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:db0-ai/db0:.",
+      "license": "NOASSERTION",
+      "name": "db0",
+      "namespace": "discovered",
+      "repo": "db0-ai/db0",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/db0-ai/db0",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/db0-ai/db0.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/db0-ai/db0/blob/e6a91a18ab532ddd45c6455cadf0d46353331ed4/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:dgiot/dgiot:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "dgiot/dgiot",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/dgiot/dgiot",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/dgiot/dgiot.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/dgiot/dgiot/blob/2cef2bc7fd13348fbf429db8a1918fc5a4794982/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:dhicoc/chinese-traditional-wisdom-skill:.",
+      "license": "NOASSERTION",
+      "name": "chinese-traditional-wisdom-skill",
+      "namespace": "discovered",
+      "repo": "dhicoc/chinese-traditional-wisdom-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/dhicoc/chinese-traditional-wisdom-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/dhicoc/chinese-traditional-wisdom-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/dhicoc/chinese-traditional-wisdom-skill/blob/82abcc674bdfb1cee0cf8c33694e8b206a0792f3/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:diegofrata/Generator.Equals:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "diegofrata/Generator.Equals",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/diegofrata/Generator.Equals",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/diegofrata/Generator.Equals.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/diegofrata/Generator.Equals/blob/3b62ddc14bca881cfb0bdcf63ddf08184cd5b5c1/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:dososo/blcaptain-style-skill:.",
+      "license": "NOASSERTION",
+      "name": "blcaptain-style-skill",
+      "namespace": "discovered",
+      "repo": "dososo/blcaptain-style-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/dososo/blcaptain-style-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/dososo/blcaptain-style-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/dososo/blcaptain-style-skill/blob/5022ba3d63964ba3b78154a3cc570968a614700c/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:evidentloop/sopify:skills/catalog/analyze",
+      "license": "NOASSERTION",
+      "name": "analyze",
+      "namespace": "discovered",
+      "repo": "evidentloop/sopify",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/evidentloop/sopify",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/catalog/analyze",
+        "type": "git",
+        "url": "https://github.com/evidentloop/sopify.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/evidentloop/sopify/blob/9d9b319cb06713f3f9d695bf98f629e50291bba3/skills/catalog/analyze/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:evidentloop/sopify:skills/catalog/design",
+      "license": "NOASSERTION",
+      "name": "design",
+      "namespace": "discovered",
+      "repo": "evidentloop/sopify",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/evidentloop/sopify",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/catalog/design",
+        "type": "git",
+        "url": "https://github.com/evidentloop/sopify.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/evidentloop/sopify/blob/9d9b319cb06713f3f9d695bf98f629e50291bba3/skills/catalog/design/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:evidentloop/sopify:skills/catalog/develop",
+      "license": "NOASSERTION",
+      "name": "develop",
+      "namespace": "discovered",
+      "repo": "evidentloop/sopify",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/evidentloop/sopify",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/catalog/develop",
+        "type": "git",
+        "url": "https://github.com/evidentloop/sopify.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/evidentloop/sopify/blob/9d9b319cb06713f3f9d695bf98f629e50291bba3/skills/catalog/develop/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:evidentloop/sopify:skills/catalog/kb",
+      "license": "NOASSERTION",
+      "name": "kb",
+      "namespace": "discovered",
+      "repo": "evidentloop/sopify",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/evidentloop/sopify",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/catalog/kb",
+        "type": "git",
+        "url": "https://github.com/evidentloop/sopify.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/evidentloop/sopify/blob/9d9b319cb06713f3f9d695bf98f629e50291bba3/skills/catalog/kb/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:fabio-rovai/brain-in-the-fish:.",
+      "license": "NOASSERTION",
+      "name": "brain-in-the-fish",
+      "namespace": "discovered",
+      "repo": "fabio-rovai/brain-in-the-fish",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/fabio-rovai/brain-in-the-fish",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/fabio-rovai/brain-in-the-fish.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/fabio-rovai/brain-in-the-fish/blob/ada41c90de336fe21b99bd6f282aa6b66a295f12/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:feast-dev/feast:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "feast-dev/feast",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/feast-dev/feast",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/feast-dev/feast.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/feast-dev/feast/blob/5ad5592390febfca60c9d88edf7daccbdd156fd6/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:fetchai/agents-aea:packages/fetchai/skills/gym",
+      "license": "NOASSERTION",
+      "name": "gym",
+      "namespace": "discovered",
+      "repo": "fetchai/agents-aea",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/fetchai/agents-aea",
+      "scan_status": "pending",
+      "source": {
+        "path": "packages/fetchai/skills/gym",
+        "type": "git",
+        "url": "https://github.com/fetchai/agents-aea.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/fetchai/agents-aea/blob/696e417f9838d9716d03cfafa3a2c2ecf05065d7/packages/fetchai/skills/gym/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:gavdalf/total-recall:.",
+      "license": "NOASSERTION",
+      "name": "total-recall",
+      "namespace": "discovered",
+      "repo": "gavdalf/total-recall",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/gavdalf/total-recall",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/gavdalf/total-recall.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/gavdalf/total-recall/blob/437ab3656ecdf52c7ed0c3ee63a3cdae68d5b90f/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:genomoncology/biomcp:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "genomoncology/biomcp",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/genomoncology/biomcp",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/genomoncology/biomcp.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/genomoncology/biomcp/blob/27933c960a8faaf5253db99280eda6eb85e78c84/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:green-api/whatsapp-api-client-python:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "green-api/whatsapp-api-client-python",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/green-api/whatsapp-api-client-python",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/green-api/whatsapp-api-client-python.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/green-api/whatsapp-api-client-python/blob/494b62d9d4c77dbdac0b419d2b5f619cc93536a5/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:halfwhey/claudraband:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "halfwhey/claudraband",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/halfwhey/claudraband",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/halfwhey/claudraband.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/halfwhey/claudraband/blob/d2b6a7d1836ff55d77367ba55c0a175752105e0c/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:haloshin/ip-diagram-creator:.",
+      "license": "NOASSERTION",
+      "name": "ip-diagram-creator",
+      "namespace": "discovered",
+      "repo": "haloshin/ip-diagram-creator",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/haloshin/ip-diagram-creator",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/haloshin/ip-diagram-creator.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/haloshin/ip-diagram-creator/blob/dd64ab5d972893f7ca271d9c560362d7788eb2d6/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:hardhackerlabs/podwise-cli:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "hardhackerlabs/podwise-cli",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/hardhackerlabs/podwise-cli",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/hardhackerlabs/podwise-cli.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/hardhackerlabs/podwise-cli/blob/496ee3a1fefa96d87f9b36fb93c1f4119ef33dc4/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:icey1287/SuperMew:skills/knowledge-base",
+      "license": "NOASSERTION",
+      "name": "knowledge-base",
+      "namespace": "discovered",
+      "repo": "icey1287/SuperMew",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/icey1287/SuperMew",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/knowledge-base",
+        "type": "git",
+        "url": "https://github.com/icey1287/SuperMew.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/icey1287/SuperMew/blob/bb027199dfecdca28387b8364e2b490937fbd3ba/skills/knowledge-base/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:icey1287/SuperMew:skills/sandbox",
+      "license": "NOASSERTION",
+      "name": "sandbox",
+      "namespace": "discovered",
+      "repo": "icey1287/SuperMew",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/icey1287/SuperMew",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/sandbox",
+        "type": "git",
+        "url": "https://github.com/icey1287/SuperMew.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/icey1287/SuperMew/blob/bb027199dfecdca28387b8364e2b490937fbd3ba/skills/sandbox/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:icey1287/SuperMew:skills/web-research",
+      "license": "NOASSERTION",
+      "name": "web-research",
+      "namespace": "discovered",
+      "repo": "icey1287/SuperMew",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/icey1287/SuperMew",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/web-research",
+        "type": "git",
+        "url": "https://github.com/icey1287/SuperMew.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/icey1287/SuperMew/blob/bb027199dfecdca28387b8364e2b490937fbd3ba/skills/web-research/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:ikuaidev/ikuai-cli:.",
+      "license": "NOASSERTION",
+      "name": "ikuai-cli",
+      "namespace": "discovered",
+      "repo": "ikuaidev/ikuai-cli",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ikuaidev/ikuai-cli",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/ikuaidev/ikuai-cli.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ikuaidev/ikuai-cli/blob/c5fdb9d110d27aa2fef4c083fa2057f06b4b7b3c/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:isLinXu/crablet:skills/weather",
+      "license": "NOASSERTION",
+      "name": "weather",
+      "namespace": "discovered",
+      "repo": "isLinXu/crablet",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/isLinXu/crablet",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/weather",
+        "type": "git",
+        "url": "https://github.com/isLinXu/crablet.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/isLinXu/crablet/blob/4371fd17f848a5f36c5c31868819d6945cd74092/skills/weather/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:isLinXu/eval-skills:.",
+      "license": "NOASSERTION",
+      "name": "eval-skills",
+      "namespace": "discovered",
+      "repo": "isLinXu/eval-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/isLinXu/eval-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/isLinXu/eval-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/isLinXu/eval-skills/blob/83d13f0b3e86d793506dc222b40c75319fc23429/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:itsmostafa/aws-agent-skills:skills/s3",
+      "license": "NOASSERTION",
+      "name": "s3",
+      "namespace": "discovered",
+      "repo": "itsmostafa/aws-agent-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/itsmostafa/aws-agent-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/s3",
+        "type": "git",
+        "url": "https://github.com/itsmostafa/aws-agent-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/itsmostafa/aws-agent-skills/blob/4ab904a69cda893b5c98f97966bf9a48311823e9/skills/s3/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:jscraik/Agent-Skills:.",
+      "license": "NOASSERTION",
+      "name": "agent-skills",
+      "namespace": "discovered",
+      "repo": "jscraik/Agent-Skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/jscraik/Agent-Skills",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/jscraik/Agent-Skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/jscraik/Agent-Skills/blob/f1f2f212f56b9155b1a80d0cde78305490439204/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:komako-workshop/digital-oracle:.",
+      "license": "NOASSERTION",
+      "name": "digital-oracle",
+      "namespace": "discovered",
+      "repo": "komako-workshop/digital-oracle",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/komako-workshop/digital-oracle",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/komako-workshop/digital-oracle.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/komako-workshop/digital-oracle/blob/a63e4c19a2f3313d54914c44666febaf5ffb9d6f/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:leejpsd/typescript-react-nextjs-patterns:.",
+      "license": "NOASSERTION",
+      "name": "typescript-react-nextjs-patterns",
+      "namespace": "discovered",
+      "repo": "leejpsd/typescript-react-nextjs-patterns",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/leejpsd/typescript-react-nextjs-patterns",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/leejpsd/typescript-react-nextjs-patterns.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/leejpsd/typescript-react-nextjs-patterns/blob/493881369b184befeee1dad726c1ee97c111f470/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/any2deck",
+      "license": "NOASSERTION",
+      "name": "any2deck",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/any2deck",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/any2deck/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/any2docx",
+      "license": "NOASSERTION",
+      "name": "any2docx",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/any2docx",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/any2docx/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/any2pdf",
+      "license": "NOASSERTION",
+      "name": "any2pdf",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/any2pdf",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/any2pdf/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/bp",
+      "license": "NOASSERTION",
+      "name": "bp",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/bp",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/bp/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/fact-check",
+      "license": "NOASSERTION",
+      "name": "fact-check",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/fact-check",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/fact-check/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/fill-form",
+      "license": "NOASSERTION",
+      "name": "fill-form",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/fill-form",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/fill-form/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/find-logo",
+      "license": "NOASSERTION",
+      "name": "find-logo",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/find-logo",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/find-logo/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/gh-access",
+      "license": "NOASSERTION",
+      "name": "gh-access",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/gh-access",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/gh-access/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/gh-tidy",
+      "license": "NOASSERTION",
+      "name": "gh-tidy",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/gh-tidy",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/gh-tidy/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/hanzi-lens",
+      "license": "NOASSERTION",
+      "name": "hanzi-lens",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/hanzi-lens",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/hanzi-lens/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/media-fetch",
+      "license": "NOASSERTION",
+      "name": "media-fetch",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/media-fetch",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/media-fetch/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/pdf2png",
+      "license": "NOASSERTION",
+      "name": "pdf2png",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/pdf2png",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/pdf2png/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/png2svg",
+      "license": "NOASSERTION",
+      "name": "png2svg",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/png2svg",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/png2svg/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/repo2docs",
+      "license": "NOASSERTION",
+      "name": "repo2docs",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/repo2docs",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/repo2docs/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/review-doc",
+      "license": "NOASSERTION",
+      "name": "review-doc",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/review-doc",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/review-doc/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:lovstudio/skills:skills/search-file",
+      "license": "NOASSERTION",
+      "name": "search-file",
+      "namespace": "discovered",
+      "repo": "lovstudio/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/lovstudio/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/search-file",
+        "type": "git",
+        "url": "https://github.com/lovstudio/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/lovstudio/skills/blob/2b45073132c10d7aad9868f450e18fe24e55e006/skills/search-file/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-:Skills/Agentic_AI/Multimodal_Agents",
+      "license": "NOASSERTION",
+      "name": "multimodal-agents",
+      "namespace": "discovered",
+      "repo": "mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-",
+      "scan_status": "pending",
+      "source": {
+        "path": "Skills/Agentic_AI/Multimodal_Agents",
+        "type": "git",
+        "url": "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-/blob/9b94a3cde1d03e30639d2469d3d8672749898a8a/Skills/Agentic_AI/Multimodal_Agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:noahnan-max/chanlun-trading-system:.",
+      "license": "NOASSERTION",
+      "name": "chanlun-trading-system",
+      "namespace": "discovered",
+      "repo": "noahnan-max/chanlun-trading-system",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/noahnan-max/chanlun-trading-system",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/noahnan-max/chanlun-trading-system.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/noahnan-max/chanlun-trading-system/blob/69f3af80327b256972e890bfb4e9c9a410c05279/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:oguzhantopgul/skill-security-reviewer:.",
+      "license": "NOASSERTION",
+      "name": "skill-security-reviewer",
+      "namespace": "discovered",
+      "repo": "oguzhantopgul/skill-security-reviewer",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/oguzhantopgul/skill-security-reviewer",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/oguzhantopgul/skill-security-reviewer.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/oguzhantopgul/skill-security-reviewer/blob/51ec63b9142e309955be41b7ab17ac91ef279caf/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:oneclickvirt/oneclickvirt:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "oneclickvirt/oneclickvirt",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/oneclickvirt/oneclickvirt",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/oneclickvirt/oneclickvirt.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/oneclickvirt/oneclickvirt/blob/fd67dd5396ff7402f45283d0a42e042b96cd0259/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:oodercn/skills:skills/tools/skill-agent-cli",
+      "license": "NOASSERTION",
+      "name": "skill-agent-cli",
+      "namespace": "discovered",
+      "repo": "oodercn/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/oodercn/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/tools/skill-agent-cli",
+        "type": "git",
+        "url": "https://github.com/oodercn/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/oodercn/skills/blob/7951577fdadab6e6c75a3cd0106d3493f67e11ed/skills/tools/skill-agent-cli/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:opendatalab/OmniDocBench:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "opendatalab/OmniDocBench",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/opendatalab/OmniDocBench",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/opendatalab/OmniDocBench.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/opendatalab/OmniDocBench/blob/193627ae9e97d89188468ed1ee3b7a856ff76044/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:physiclaw/PhysiClaw:skills/jd",
+      "license": "NOASSERTION",
+      "name": "jd",
+      "namespace": "discovered",
+      "repo": "physiclaw/PhysiClaw",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/physiclaw/PhysiClaw",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/jd",
+        "type": "git",
+        "url": "https://github.com/physiclaw/PhysiClaw.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/physiclaw/PhysiClaw/blob/dd3f24e14db51cb8d69716e9b9feb52b64b1a18d/skills/jd/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:ploi/ploi-php-sdk:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "ploi/ploi-php-sdk",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ploi/ploi-php-sdk",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/ploi/ploi-php-sdk.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ploi/ploi-php-sdk/blob/c455524f7e293ec3f248f528351017aec1485781/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:project-numina/numina-lean-agent:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "project-numina/numina-lean-agent",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/project-numina/numina-lean-agent",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/project-numina/numina-lean-agent.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/project-numina/numina-lean-agent/blob/1c9af8a52e715f22fede766425ba3d3b95526132/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:puck-security/puck-scout:skills/shadow-ai",
+      "license": "NOASSERTION",
+      "name": "shadow-ai",
+      "namespace": "discovered",
+      "repo": "puck-security/puck-scout",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/puck-security/puck-scout",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/shadow-ai",
+        "type": "git",
+        "url": "https://github.com/puck-security/puck-scout.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/puck-security/puck-scout/blob/b71f40faa4dda72425d6949311af3887d221c159/skills/shadow-ai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:quantskills/skill-serenity-research-model:.",
+      "license": "NOASSERTION",
+      "name": "skill-serenity-research-model",
+      "namespace": "discovered",
+      "repo": "quantskills/skill-serenity-research-model",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/quantskills/skill-serenity-research-model",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/quantskills/skill-serenity-research-model.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/quantskills/skill-serenity-research-model/blob/97896616e3704e374ae4f0dbda7a93cc349b11cb/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:rafsilva85/credit-optimizer-v5:.",
+      "license": "NOASSERTION",
+      "name": "credit-optimizer-v5",
+      "namespace": "discovered",
+      "repo": "rafsilva85/credit-optimizer-v5",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/rafsilva85/credit-optimizer-v5",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/rafsilva85/credit-optimizer-v5.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/rafsilva85/credit-optimizer-v5/blob/37eb57a8fb2506e8e1c1c5458748bac439c2f521/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:rangerchaz/turkey-build:.",
+      "license": "NOASSERTION",
+      "name": "turkey-build",
+      "namespace": "discovered",
+      "repo": "rangerchaz/turkey-build",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/rangerchaz/turkey-build",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/rangerchaz/turkey-build.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/rangerchaz/turkey-build/blob/a9b9436128293b990c34299391bc70d835195191/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:raphaelsalaja/userinterface-wiki:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "raphaelsalaja/userinterface-wiki",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/raphaelsalaja/userinterface-wiki",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/raphaelsalaja/userinterface-wiki.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/raphaelsalaja/userinterface-wiki/blob/256a954080c8bcf1b1ceb1e2a4079d1f24cf593a/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:realZillionX/InspireSkill:.",
+      "license": "NOASSERTION",
+      "name": "inspireskill",
+      "namespace": "discovered",
+      "repo": "realZillionX/InspireSkill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/realZillionX/InspireSkill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/realZillionX/InspireSkill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/realZillionX/InspireSkill/blob/a0d34b294ec6c2bcb7da5c30ba79ab7bff0a1101/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:risingwavelabs/box0:.",
+      "license": "NOASSERTION",
+      "name": "box0",
+      "namespace": "discovered",
+      "repo": "risingwavelabs/box0",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/risingwavelabs/box0",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/risingwavelabs/box0.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/risingwavelabs/box0/blob/66be3af827f27ce87fce885ac0a4c3b85d0aeb81/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:second-state/qwen3_asr_rs:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "second-state/qwen3_asr_rs",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/second-state/qwen3_asr_rs",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/second-state/qwen3_asr_rs.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/second-state/qwen3_asr_rs/blob/3fa673441682350b12da5c21429fea71ce212023/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:serenakeyitan/open-exam-skills:skills/citation-check",
+      "license": "NOASSERTION",
+      "name": "citation-check",
+      "namespace": "discovered",
+      "repo": "serenakeyitan/open-exam-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/serenakeyitan/open-exam-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/citation-check",
+        "type": "git",
+        "url": "https://github.com/serenakeyitan/open-exam-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/serenakeyitan/open-exam-skills/blob/fe13bb2239c45aa7674e08e22e46e9dea7d12f9b/skills/citation-check/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:serenakeyitan/open-exam-skills:skills/flashcards",
+      "license": "NOASSERTION",
+      "name": "flashcards",
+      "namespace": "discovered",
+      "repo": "serenakeyitan/open-exam-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/serenakeyitan/open-exam-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/flashcards",
+        "type": "git",
+        "url": "https://github.com/serenakeyitan/open-exam-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/serenakeyitan/open-exam-skills/blob/fe13bb2239c45aa7674e08e22e46e9dea7d12f9b/skills/flashcards/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:serenakeyitan/open-exam-skills:skills/mindmap",
+      "license": "NOASSERTION",
+      "name": "mindmap",
+      "namespace": "discovered",
+      "repo": "serenakeyitan/open-exam-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/serenakeyitan/open-exam-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/mindmap",
+        "type": "git",
+        "url": "https://github.com/serenakeyitan/open-exam-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/serenakeyitan/open-exam-skills/blob/fe13bb2239c45aa7674e08e22e46e9dea7d12f9b/skills/mindmap/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:serenakeyitan/open-exam-skills:skills/quiz",
+      "license": "NOASSERTION",
+      "name": "quiz",
+      "namespace": "discovered",
+      "repo": "serenakeyitan/open-exam-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/serenakeyitan/open-exam-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/quiz",
+        "type": "git",
+        "url": "https://github.com/serenakeyitan/open-exam-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/serenakeyitan/open-exam-skills/blob/fe13bb2239c45aa7674e08e22e46e9dea7d12f9b/skills/quiz/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:sheeki03/tirith:.",
+      "license": "NOASSERTION",
+      "name": "tirith",
+      "namespace": "discovered",
+      "repo": "sheeki03/tirith",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/sheeki03/tirith",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/sheeki03/tirith.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/sheeki03/tirith/blob/7b5a472eda8cadfa21ea0690928b0b5bacfcb567/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:sigcli/sigcli:skills/x",
+      "license": "NOASSERTION",
+      "name": "x",
+      "namespace": "discovered",
+      "repo": "sigcli/sigcli",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/sigcli/sigcli",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/x",
+        "type": "git",
+        "url": "https://github.com/sigcli/sigcli.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/sigcli/sigcli/blob/3f5ee01ebd26157a6b9128b574720c80f5132a25/skills/x/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:stas00/the-art-of-debugging:.",
+      "license": "NOASSERTION",
+      "name": "the-art-of-debugging",
+      "namespace": "discovered",
+      "repo": "stas00/the-art-of-debugging",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/stas00/the-art-of-debugging",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/stas00/the-art-of-debugging.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/stas00/the-art-of-debugging/blob/59a0c5b0535ead08e04d1ec1ba7b410b70ce3434/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:stellarlinkco/myclaude:skills/do",
+      "license": "NOASSERTION",
+      "name": "do",
+      "namespace": "discovered",
+      "repo": "stellarlinkco/myclaude",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/stellarlinkco/myclaude",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/do",
+        "type": "git",
+        "url": "https://github.com/stellarlinkco/myclaude.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/stellarlinkco/myclaude/blob/f2e75c1263a2d5f09cdc4bb3dfe3635c635ff296/skills/do/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:sundial-org/awesome-openclaw-skills:skills/n8n-monitor",
+      "license": "NOASSERTION",
+      "name": "n8n-monitor",
+      "namespace": "discovered",
+      "repo": "sundial-org/awesome-openclaw-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/sundial-org/awesome-openclaw-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/n8n-monitor",
+        "type": "git",
+        "url": "https://github.com/sundial-org/awesome-openclaw-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/sundial-org/awesome-openclaw-skills/blob/b80cde2ef85241dd4fd54a1b934f5e22835f78ba/skills/n8n-monitor/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:upstash/qstash-js:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "upstash/qstash-js",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/upstash/qstash-js",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/upstash/qstash-js.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/upstash/qstash-js/blob/bcc6556c66043d6dd4525480aa6ef0f3635034ea/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:upstash/ratelimit-js:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "upstash/ratelimit-js",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/upstash/ratelimit-js",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/upstash/ratelimit-js.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/upstash/ratelimit-js/blob/89c481bf3b836a1ef5454c0615bc201e6386826b/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:upstash/redis-js:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "upstash/redis-js",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/upstash/redis-js",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/upstash/redis-js.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/upstash/redis-js/blob/73fbe1af58b98499ad5bc6c5015482027ee5cdb6/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:upstash/vector-js:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "upstash/vector-js",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/upstash/vector-js",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/upstash/vector-js.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/upstash/vector-js/blob/ad3ad721a1d5035c5a891830174cbba8bcd9d10d/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:upstash/workflow-js:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "upstash/workflow-js",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/upstash/workflow-js",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/upstash/workflow-js.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/upstash/workflow-js/blob/f5b8163c074fbcef600b7f12807d087278eb8912/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/agent-memory-systems",
+      "license": "NOASSERTION",
+      "name": "agent-memory-systems",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/agent-memory-systems",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/agent-memory-systems/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/ai-product",
+      "license": "NOASSERTION",
+      "name": "ai-product",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/ai-product",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/ai-product/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/crewai",
+      "license": "NOASSERTION",
+      "name": "crewai",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/crewai",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/crewai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/langgraph",
+      "license": "NOASSERTION",
+      "name": "langgraph",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/langgraph",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/langgraph/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/multi-agent-orchestration",
+      "license": "NOASSERTION",
+      "name": "multi-agent-orchestration",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/multi-agent-orchestration",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/multi-agent-orchestration/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/voice-ai-development",
+      "license": "NOASSERTION",
+      "name": "voice-ai-development",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/voice-ai-development",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/voice-ai-development/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/zapier-make-patterns",
+      "license": "NOASSERTION",
+      "name": "zapier-make-patterns",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/zapier-make-patterns",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/zapier-make-patterns/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/agent-communication",
+      "license": "NOASSERTION",
+      "name": "agent-communication",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/agent-communication",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/agent-communication/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/agent-evaluation",
+      "license": "NOASSERTION",
+      "name": "agent-evaluation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/agent-evaluation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/agent-evaluation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/agent-memory-systems",
+      "license": "NOASSERTION",
+      "name": "agent-memory-systems",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/agent-memory-systems",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/agent-memory-systems/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/agent-tool-builder",
+      "license": "NOASSERTION",
+      "name": "agent-tool-builder",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/agent-tool-builder",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/agent-tool-builder/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/ai-agents-architect",
+      "license": "NOASSERTION",
+      "name": "ai-agents-architect",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/ai-agents-architect",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/ai-agents-architect/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/ai-product",
+      "license": "NOASSERTION",
+      "name": "ai-product",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/ai-product",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/ai-product/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/autonomous-agents",
+      "license": "NOASSERTION",
+      "name": "autonomous-agents",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/autonomous-agents",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/autonomous-agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/browser-automation",
+      "license": "NOASSERTION",
+      "name": "browser-automation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/browser-automation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/browser-automation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/computer-use-agents",
+      "license": "NOASSERTION",
+      "name": "computer-use-agents",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/computer-use-agents",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/computer-use-agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/crewai",
+      "license": "NOASSERTION",
+      "name": "crewai",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/crewai",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/crewai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/langfuse",
+      "license": "NOASSERTION",
+      "name": "langfuse",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/langfuse",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/langfuse/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/langgraph",
+      "license": "NOASSERTION",
+      "name": "langgraph",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/langgraph",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/langgraph/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/multi-agent-orchestration",
+      "license": "NOASSERTION",
+      "name": "multi-agent-orchestration",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/multi-agent-orchestration",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/multi-agent-orchestration/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/prompt-engineer",
+      "license": "NOASSERTION",
+      "name": "prompt-engineer",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/prompt-engineer",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/prompt-engineer/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/rag-engineer",
+      "license": "NOASSERTION",
+      "name": "rag-engineer",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/rag-engineer",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/rag-engineer/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/voice-agents",
+      "license": "NOASSERTION",
+      "name": "voice-agents",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/voice-agents",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/voice-agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/voice-ai-development",
+      "license": "NOASSERTION",
+      "name": "voice-ai-development",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/voice-ai-development",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/voice-ai-development/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/workflow-automation",
+      "license": "NOASSERTION",
+      "name": "workflow-automation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/workflow-automation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/workflow-automation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/zapier-make-patterns",
+      "license": "NOASSERTION",
+      "name": "zapier-make-patterns",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/zapier-make-patterns",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/zapier-make-patterns/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/ai-code-generation",
+      "license": "NOASSERTION",
+      "name": "ai-code-generation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/ai-code-generation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/ai-code-generation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/ai-observability",
+      "license": "NOASSERTION",
+      "name": "ai-observability",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/ai-observability",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/ai-observability/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/reinforcement-learning",
+      "license": "NOASSERTION",
+      "name": "reinforcement-learning",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/reinforcement-learning",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/reinforcement-learning/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/synthetic-data",
+      "license": "NOASSERTION",
+      "name": "synthetic-data",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/synthetic-data",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/synthetic-data/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:frontend/cursor-ai",
+      "license": "NOASSERTION",
+      "name": "cursor-ai",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "frontend/cursor-ai",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/frontend/cursor-ai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:game-dev/game-ai-behavior",
+      "license": "NOASSERTION",
+      "name": "game-ai-behavior",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "game-dev/game-ai-behavior",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/game-dev/game-ai-behavior/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:vyperlang/vyper:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "vyperlang/vyper",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vyperlang/vyper",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/vyperlang/vyper.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vyperlang/vyper/blob/5764199a9ab64e13bc64d8f41371378db4fa6ab0/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:w3c/web-performance:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "w3c/web-performance",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/w3c/web-performance",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/w3c/web-performance.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/w3c/web-performance/blob/6551627c29e21d3e4d490d944c3459b5580e2b27/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:workato-devs/recipe-skills:skills/asana-recipes",
+      "license": "NOASSERTION",
+      "name": "asana-recipes",
+      "namespace": "discovered",
+      "repo": "workato-devs/recipe-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/workato-devs/recipe-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/asana-recipes",
+        "type": "git",
+        "url": "https://github.com/workato-devs/recipe-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/workato-devs/recipe-skills/blob/afa1e729a013061c7b328271fadcdf240091cf3c/skills/asana-recipes/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:workato-devs/recipe-skills:skills/jira-recipes",
+      "license": "NOASSERTION",
+      "name": "jira-recipes",
+      "namespace": "discovered",
+      "repo": "workato-devs/recipe-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/workato-devs/recipe-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/jira-recipes",
+        "type": "git",
+        "url": "https://github.com/workato-devs/recipe-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/workato-devs/recipe-skills/blob/afa1e729a013061c7b328271fadcdf240091cf3c/skills/jira-recipes/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:workato-devs/recipe-skills:skills/slack-recipes",
+      "license": "NOASSERTION",
+      "name": "slack-recipes",
+      "namespace": "discovered",
+      "repo": "workato-devs/recipe-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/workato-devs/recipe-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/slack-recipes",
+        "type": "git",
+        "url": "https://github.com/workato-devs/recipe-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/workato-devs/recipe-skills/blob/afa1e729a013061c7b328271fadcdf240091cf3c/skills/slack-recipes/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:workato-devs/recipe-skills:skills/stripe-recipes",
+      "license": "NOASSERTION",
+      "name": "stripe-recipes",
+      "namespace": "discovered",
+      "repo": "workato-devs/recipe-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/workato-devs/recipe-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/stripe-recipes",
+        "type": "git",
+        "url": "https://github.com/workato-devs/recipe-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/workato-devs/recipe-skills/blob/afa1e729a013061c7b328271fadcdf240091cf3c/skills/stripe-recipes/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:workato-devs/recipe-skills:skills/workato-recipes",
+      "license": "NOASSERTION",
+      "name": "workato-recipes",
+      "namespace": "discovered",
+      "repo": "workato-devs/recipe-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/workato-devs/recipe-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/workato-recipes",
+        "type": "git",
+        "url": "https://github.com/workato-devs/recipe-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/workato-devs/recipe-skills/blob/afa1e729a013061c7b328271fadcdf240091cf3c/skills/workato-recipes/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:xCloudDev/xcloud-agent-skills:.",
+      "license": "NOASSERTION",
+      "name": "xcloud-agent-skills",
+      "namespace": "discovered",
+      "repo": "xCloudDev/xcloud-agent-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/xCloudDev/xcloud-agent-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/xCloudDev/xcloud-agent-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/xCloudDev/xcloud-agent-skills/blob/5520bb64ce845883edfd5e8938987cd89e9aa280/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:xmtplabs/xmtp-agent-examples:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "xmtplabs/xmtp-agent-examples",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/xmtplabs/xmtp-agent-examples",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/xmtplabs/xmtp-agent-examples.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/xmtplabs/xmtp-agent-examples/blob/8116b7fbd4bde327c06a51ec15defe8046be1953/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:zakirkun/guardian-cli:.",
+      "license": "NOASSERTION",
+      "name": "guardian-cli",
+      "namespace": "discovered",
+      "repo": "zakirkun/guardian-cli",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/zakirkun/guardian-cli",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/zakirkun/guardian-cli.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/zakirkun/guardian-cli/blob/51864a81f484e2826dccd2f60fd181a040585962/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:zhenheco/content-flywheel-skills:.",
+      "license": "NOASSERTION",
+      "name": "content-flywheel-skills",
+      "namespace": "discovered",
+      "repo": "zhenheco/content-flywheel-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/zhenheco/content-flywheel-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/zhenheco/content-flywheel-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/zhenheco/content-flywheel-skills/blob/55d155ac080afab76082b4e978bb3d3fadbdd01c/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:zhongzhx/literature-harvest:.",
+      "license": "NOASSERTION",
+      "name": "literature-harvest",
+      "namespace": "discovered",
+      "repo": "zhongzhx/literature-harvest",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/zhongzhx/literature-harvest",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/zhongzhx/literature-harvest.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/zhongzhx/literature-harvest/blob/bd41d2673235c6cde15b326b7159f7917946ddee/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:ziguishian/premium-ui-builder-skill:.",
+      "license": "NOASSERTION",
+      "name": "premium-ui-builder-skill",
+      "namespace": "discovered",
+      "repo": "ziguishian/premium-ui-builder-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ziguishian/premium-ui-builder-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/ziguishian/premium-ui-builder-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ziguishian/premium-ui-builder-skill/blob/7f6d0a55766f815b90a3ddce24069e41e6f80d48/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:zoom/skills:skills",
+      "license": "NOASSERTION",
+      "name": "skills",
+      "namespace": "discovered",
+      "repo": "zoom/skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/zoom/skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills",
+        "type": "git",
+        "url": "https://github.com/zoom/skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/zoom/skills/blob/381814b1e579d4b1b222612dbdfa3be5fb34e8cb/skills/SKILL.md"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "SKILL.md"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-09-05T08:12:09.256119Z",
+      "id": "github:zscole/bagman-skill:.",
+      "license": "NOASSERTION",
+      "name": "bagman-skill",
+      "namespace": "discovered",
+      "repo": "zscole/bagman-skill",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/zscole/bagman-skill",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/zscole/bagman-skill.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/zscole/bagman-skill/blob/73de65198b0b1f56f611cc3a5f542ae927415b47/SKILL.md"
+      ]
+    }
+  ],
   "description": "Discovered skill candidates. Human review is required before registry ingest.",
-  "generated_at": "2026-07-14T06:14:28.121426Z",
+  "generated_at": "2026-09-05T08:12:09.256119Z",
   "schema_version": "1"
 }
