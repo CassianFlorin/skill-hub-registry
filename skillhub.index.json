@@ -946,6 +946,40 @@
       },
       "featured": false,
       "updated_at": "2026-05-31"
+    },
+    {
+      "identity": "yylo-dev/plan-ledger-tasks-yylo",
+      "name": "plan-ledger-tasks-yylo",
+      "namespace": "yylo-dev",
+      "version": "2.1.0",
+      "description": "Create a concise Product Development Requirement and one or more implementation-sized YYLO Ledger tasks when the user explicitly asks to plan or register work.",
+      "targets": [
+        "codex",
+        "claude"
+      ],
+      "tags": [
+        "kanban",
+        "task-management",
+        "planning",
+        "yylo",
+        "ledger"
+      ],
+      "source": {
+        "type": "git",
+        "url": "https://github.com/yylo-dev/yylo-skills.git",
+        "path": "skills/plan-ledger-tasks-yylo",
+        "ref": "c8195754d84bae290ac028aa0e666cc7b770ac47",
+        "sync_metadata": false
+      },
+      "maintainers": [
+        "yylo-dev"
+      ],
+      "license": "MIT",
+      "trust": {
+        "level": "community"
+      },
+      "featured": false,
+      "updated_at": "2026-09-25"
     }
   ]
 }
