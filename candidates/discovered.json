@@ -1,6 +1,1295 @@
 {
-  "candidates": [],
+  "candidates": [
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:AniruddhaDas1/OniRoute_SwarmAgents:skills/official/ai/ai-safety",
+      "license": "NOASSERTION",
+      "name": "ai-safety",
+      "namespace": "discovered",
+      "repo": "AniruddhaDas1/OniRoute_SwarmAgents",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/AniruddhaDas1/OniRoute_SwarmAgents",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/official/ai/ai-safety",
+        "type": "git",
+        "url": "https://github.com/AniruddhaDas1/OniRoute_SwarmAgents.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/AniruddhaDas1/OniRoute_SwarmAgents/blob/c47d553ad2e1aa547cce000c095a9feda5434ee2/skills/official/ai/ai-safety/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/meng",
+      "license": "NOASSERTION",
+      "name": "meng",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/meng",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/meng/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/moltguild-clawd",
+      "license": "NOASSERTION",
+      "name": "moltguild-clawd",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/moltguild-clawd",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/moltguild-clawd/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/sili-ville",
+      "license": "NOASSERTION",
+      "name": "sili-ville",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/sili-ville",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/sili-ville/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/siliville",
+      "license": "NOASSERTION",
+      "name": "siliville",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/siliville",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/siliville/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:LeoYeAI/openclaw-master-skills:skills/silivillecn",
+      "license": "NOASSERTION",
+      "name": "silivillecn",
+      "namespace": "discovered",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/silivillecn",
+        "type": "git",
+        "url": "https://github.com/LeoYeAI/openclaw-master-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/LeoYeAI/openclaw-master-skills/blob/e5199b56ae1ff72e141586c17695563486c46702/skills/silivillecn/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:clawplays/ospec:.",
+      "license": "NOASSERTION",
+      "name": "ospec",
+      "namespace": "discovered",
+      "repo": "clawplays/ospec",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/clawplays/ospec",
+      "scan_status": "pending",
+      "source": {
+        "path": ".",
+        "type": "git",
+        "url": "https://github.com/clawplays/ospec.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/clawplays/ospec/blob/be449f2ce6986c62410a34b3bd4521d2f952a19c/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:fetchai/agents-aea:packages/fetchai/skills/gym",
+      "license": "NOASSERTION",
+      "name": "gym",
+      "namespace": "discovered",
+      "repo": "fetchai/agents-aea",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/fetchai/agents-aea",
+      "scan_status": "pending",
+      "source": {
+        "path": "packages/fetchai/skills/gym",
+        "type": "git",
+        "url": "https://github.com/fetchai/agents-aea.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/fetchai/agents-aea/blob/696e417f9838d9716d03cfafa3a2c2ecf05065d7/packages/fetchai/skills/gym/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-:Skills/Agentic_AI/Multimodal_Agents",
+      "license": "NOASSERTION",
+      "name": "multimodal-agents",
+      "namespace": "discovered",
+      "repo": "mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-",
+      "scan_status": "pending",
+      "source": {
+        "path": "Skills/Agentic_AI/Multimodal_Agents",
+        "type": "git",
+        "url": "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-/blob/cbe5ecf31d2c728ada56f45c197dc0a6527a7665/Skills/Agentic_AI/Multimodal_Agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:moss-site/moss-trade-bot-skills:moss-trade-bot-factory-1.0.21",
+      "license": "NOASSERTION",
+      "name": "moss-trade-bot-factory-1.0.21",
+      "namespace": "discovered",
+      "repo": "moss-site/moss-trade-bot-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/moss-site/moss-trade-bot-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "moss-trade-bot-factory-1.0.21",
+        "type": "git",
+        "url": "https://github.com/moss-site/moss-trade-bot-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/moss-site/moss-trade-bot-skills/blob/7b276237b17fead150f8dee6931f458336fc7c24/moss-trade-bot-factory-1.0.21/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:moss-site/moss-trade-bot-skills:moss-trade-bot-factory-1.0.23",
+      "license": "NOASSERTION",
+      "name": "moss-trade-bot-factory-1.0.23",
+      "namespace": "discovered",
+      "repo": "moss-site/moss-trade-bot-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/moss-site/moss-trade-bot-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "moss-trade-bot-factory-1.0.23",
+        "type": "git",
+        "url": "https://github.com/moss-site/moss-trade-bot-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/moss-site/moss-trade-bot-skills/blob/7b276237b17fead150f8dee6931f458336fc7c24/moss-trade-bot-factory-1.0.23/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:moss-site/moss-trade-bot-skills:moss-trade-bot-factory-1.0.23.1",
+      "license": "NOASSERTION",
+      "name": "moss-trade-bot-factory-1.0.23.1",
+      "namespace": "discovered",
+      "repo": "moss-site/moss-trade-bot-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/moss-site/moss-trade-bot-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "moss-trade-bot-factory-1.0.23.1",
+        "type": "git",
+        "url": "https://github.com/moss-site/moss-trade-bot-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/moss-site/moss-trade-bot-skills/blob/7b276237b17fead150f8dee6931f458336fc7c24/moss-trade-bot-factory-1.0.23.1/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:moss-site/moss-trade-bot-skills:moss-trade-bot-factory-1.0.24",
+      "license": "NOASSERTION",
+      "name": "moss-trade-bot-factory-1.0.24",
+      "namespace": "discovered",
+      "repo": "moss-site/moss-trade-bot-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/moss-site/moss-trade-bot-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "moss-trade-bot-factory-1.0.24",
+        "type": "git",
+        "url": "https://github.com/moss-site/moss-trade-bot-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/moss-site/moss-trade-bot-skills/blob/7b276237b17fead150f8dee6931f458336fc7c24/moss-trade-bot-factory-1.0.24/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:moss-site/moss-trade-bot-skills:moss-trade-bot-factory-1.0.26",
+      "license": "NOASSERTION",
+      "name": "moss-trade-bot-factory-1.0.26",
+      "namespace": "discovered",
+      "repo": "moss-site/moss-trade-bot-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/moss-site/moss-trade-bot-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "moss-trade-bot-factory-1.0.26",
+        "type": "git",
+        "url": "https://github.com/moss-site/moss-trade-bot-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/moss-site/moss-trade-bot-skills/blob/7b276237b17fead150f8dee6931f458336fc7c24/moss-trade-bot-factory-1.0.26/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:moss-site/moss-trade-bot-skills:moss-trade-bot-factory-1.0.27",
+      "license": "NOASSERTION",
+      "name": "moss-trade-bot-factory-1.0.27",
+      "namespace": "discovered",
+      "repo": "moss-site/moss-trade-bot-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/moss-site/moss-trade-bot-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "moss-trade-bot-factory-1.0.27",
+        "type": "git",
+        "url": "https://github.com/moss-site/moss-trade-bot-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/moss-site/moss-trade-bot-skills/blob/7b276237b17fead150f8dee6931f458336fc7c24/moss-trade-bot-factory-1.0.27/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:moss-site/moss-trade-bot-skills:moss-trade-bot-factory-en-1.0.3",
+      "license": "NOASSERTION",
+      "name": "moss-trade-bot-factory-en-1.0.3",
+      "namespace": "discovered",
+      "repo": "moss-site/moss-trade-bot-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/moss-site/moss-trade-bot-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "moss-trade-bot-factory-en-1.0.3",
+        "type": "git",
+        "url": "https://github.com/moss-site/moss-trade-bot-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/moss-site/moss-trade-bot-skills/blob/7b276237b17fead150f8dee6931f458336fc7c24/moss-trade-bot-factory-en-1.0.3/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:ptreezh/sscisubagent-skills:skills/soul-agent-creator",
+      "license": "NOASSERTION",
+      "name": "soul-agent-creator",
+      "namespace": "discovered",
+      "repo": "ptreezh/sscisubagent-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ptreezh/sscisubagent-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/soul-agent-creator",
+        "type": "git",
+        "url": "https://github.com/ptreezh/sscisubagent-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ptreezh/sscisubagent-skills/blob/38d78e5b4452f314a8c6d358c1db678dcf5c0c30/skills/soul-agent-creator/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:ptreezh/sscisubagent-skills:soul-agent-creator",
+      "license": "NOASSERTION",
+      "name": "soul-agent-creator",
+      "namespace": "discovered",
+      "repo": "ptreezh/sscisubagent-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/ptreezh/sscisubagent-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "soul-agent-creator",
+        "type": "git",
+        "url": "https://github.com/ptreezh/sscisubagent-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/ptreezh/sscisubagent-skills/blob/38d78e5b4452f314a8c6d358c1db678dcf5c0c30/soul-agent-creator/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:puck-security/puck-scout:skills/shadow-ai",
+      "license": "NOASSERTION",
+      "name": "shadow-ai",
+      "namespace": "discovered",
+      "repo": "puck-security/puck-scout",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/puck-security/puck-scout",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/shadow-ai",
+        "type": "git",
+        "url": "https://github.com/puck-security/puck-scout.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/puck-security/puck-scout/blob/b71f40faa4dda72425d6949311af3887d221c159/skills/shadow-ai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:strataga/claude-setup:skills/ai-agents-architect",
+      "license": "NOASSERTION",
+      "name": "ai-agents-architect",
+      "namespace": "discovered",
+      "repo": "strataga/claude-setup",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/strataga/claude-setup",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/ai-agents-architect",
+        "type": "git",
+        "url": "https://github.com/strataga/claude-setup.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/strataga/claude-setup/blob/9eb5a45f756b2841a6b67cac62b8cd903e0252f0/skills/ai-agents-architect/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner:spawner-v2/skills/ai-agents/crewai",
+      "license": "NOASSERTION",
+      "name": "crewai",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner",
+      "scan_status": "pending",
+      "source": {
+        "path": "spawner-v2/skills/ai-agents/crewai",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner/blob/d8335791d092793611bbad2b6bb7216cbe731d64/spawner-v2/skills/ai-agents/crewai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/agent-communication",
+      "license": "NOASSERTION",
+      "name": "agent-communication",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/agent-communication",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/agent-communication/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/agent-evaluation",
+      "license": "NOASSERTION",
+      "name": "agent-evaluation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/agent-evaluation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/agent-evaluation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/agent-memory-systems",
+      "license": "NOASSERTION",
+      "name": "agent-memory-systems",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/agent-memory-systems",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/agent-memory-systems/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/ai-agents-architect",
+      "license": "NOASSERTION",
+      "name": "ai-agents-architect",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/ai-agents-architect",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/ai-agents-architect/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/ai-product",
+      "license": "NOASSERTION",
+      "name": "ai-product",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/ai-product",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/ai-product/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/autonomous-agents",
+      "license": "NOASSERTION",
+      "name": "autonomous-agents",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/autonomous-agents",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/autonomous-agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/browser-automation",
+      "license": "NOASSERTION",
+      "name": "browser-automation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/browser-automation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/browser-automation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/computer-use-agents",
+      "license": "NOASSERTION",
+      "name": "computer-use-agents",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/computer-use-agents",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/computer-use-agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/crewai",
+      "license": "NOASSERTION",
+      "name": "crewai",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/crewai",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/crewai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/langfuse",
+      "license": "NOASSERTION",
+      "name": "langfuse",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/langfuse",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/langfuse/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/langgraph",
+      "license": "NOASSERTION",
+      "name": "langgraph",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/langgraph",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/langgraph/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/prompt-engineer",
+      "license": "NOASSERTION",
+      "name": "prompt-engineer",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/prompt-engineer",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/prompt-engineer/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/rag-engineer",
+      "license": "NOASSERTION",
+      "name": "rag-engineer",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/rag-engineer",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/rag-engineer/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/voice-agents",
+      "license": "NOASSERTION",
+      "name": "voice-agents",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/voice-agents",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/voice-agents/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/voice-ai-development",
+      "license": "NOASSERTION",
+      "name": "voice-ai-development",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/voice-ai-development",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/voice-ai-development/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/workflow-automation",
+      "license": "NOASSERTION",
+      "name": "workflow-automation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/workflow-automation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/workflow-automation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai-agents/zapier-make-patterns",
+      "license": "NOASSERTION",
+      "name": "zapier-make-patterns",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai-agents/zapier-make-patterns",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai-agents/zapier-make-patterns/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/ai-code-generation",
+      "license": "NOASSERTION",
+      "name": "ai-code-generation",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/ai-code-generation",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/ai-code-generation/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/ai-observability",
+      "license": "NOASSERTION",
+      "name": "ai-observability",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/ai-observability",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/ai-observability/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/reinforcement-learning",
+      "license": "NOASSERTION",
+      "name": "reinforcement-learning",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/reinforcement-learning",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/reinforcement-learning/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:ai/synthetic-data",
+      "license": "NOASSERTION",
+      "name": "synthetic-data",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "ai/synthetic-data",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/ai/synthetic-data/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:frontend/cursor-ai",
+      "license": "NOASSERTION",
+      "name": "cursor-ai",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "frontend/cursor-ai",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/frontend/cursor-ai/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:game-dev/game-ai-behavior",
+      "license": "NOASSERTION",
+      "name": "game-ai-behavior",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "game-dev/game-ai-behavior",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/game-dev/game-ai-behavior/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:vibeforge1111/vibeship-spawner-skills:game-dev/game-ai-behavior-trees",
+      "license": "NOASSERTION",
+      "name": "game-ai-behavior-trees",
+      "namespace": "discovered",
+      "repo": "vibeforge1111/vibeship-spawner-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/vibeforge1111/vibeship-spawner-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "game-dev/game-ai-behavior-trees",
+        "type": "git",
+        "url": "https://github.com/vibeforge1111/vibeship-spawner-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/vibeforge1111/vibeship-spawner-skills/blob/70b2e1062fc6a38fce854226c27097a87732cb5f/game-dev/game-ai-behavior-trees/skill.yaml"
+      ]
+    },
+    {
+      "default_branch": "main",
+      "detected_files": [
+        "skill.yaml"
+      ],
+      "detected_format": "skill-entrypoint",
+      "discovered_at": "2026-10-24T08:45:30.632305Z",
+      "id": "github:workato-devs/recipe-skills:skills/gmail-recipes",
+      "license": "NOASSERTION",
+      "name": "gmail-recipes",
+      "namespace": "discovered",
+      "repo": "workato-devs/recipe-skills",
+      "repo_updated_at": "",
+      "repo_url": "https://github.com/workato-devs/recipe-skills",
+      "scan_status": "pending",
+      "source": {
+        "path": "skills/gmail-recipes",
+        "type": "git",
+        "url": "https://github.com/workato-devs/recipe-skills.git"
+      },
+      "source_provider": "github",
+      "stars": 0,
+      "topics": [],
+      "trust_level": "discovered",
+      "urls": [
+        "https://github.com/workato-devs/recipe-skills/blob/afa1e729a013061c7b328271fadcdf240091cf3c/skills/gmail-recipes/skill.yaml"
+      ]
+    }
+  ],
   "description": "Discovered skill candidates. Human review is required before registry ingest.",
-  "generated_at": "2026-07-14T06:14:28.121426Z",
+  "generated_at": "2026-10-24T08:45:30.632305Z",
   "schema_version": "1"
 }
